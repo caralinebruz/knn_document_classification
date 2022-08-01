@@ -1,0 +1,1671 @@
+C1,'police force', 0.026802863629440506
+C1,'air china', 0.018238472484062816
+C1,'civil aeronautics', 0.01423975239667104
+C1,'safety guideline', 0.013390676251466064
+C1,'liu jianfeng', 0.011486941555474504
+C1,'civil aviation', 0.00978075879441849
+C1,'civil air', 0.009385426871441942
+C1,'route airport', 0.009119236242031408
+C1,'commercial airline', 0.008927117500977376
+C1,'security check', 0.008927117500977376
+C1,'world cup', 0.008927117500977376
+C1,'formation police', 0.007657961036983002
+C1,'civil aviation administration', 0.007657961036983002
+C1,'airline liu jianfeng', 0.007657961036983002
+C1,'caac public security bureau', 0.007657961036983002
+C1,'state council', 0.007657961036983002
+C1,'rianovosti correspondent', 0.007539866738666539
+C1,'air nauru', 0.0068492539447154
+C1,'fiji australia', 0.0068492539447154
+C1,'royal tongan airlines', 0.0068492539447154
+C1,'pacific state niue', 0.0068492539447154
+C1,'spare part', 0.006174575151249166
+C1,'flight safety', 0.0058928486872882125
+C1,'aviation safe', 0.005514401298958587
+C1,'earlier month', 0.005355402262474138
+C1,'colombian airline', 0.0051780917806076516
+C1,'325 million us dollar', 0.004559618121015704
+C1,'120 million yuan', 0.004559618121015704
+C1,'270 million yuan', 0.004559618121015704
+C1,'145 million us dollar', 0.004559618121015704
+C1,'united states', 0.0045022193642180585
+C1,'sept 11', 0.004463558750488688
+C1,'world cup asian games', 0.004463558750488688
+C1,'march april', 0.004463558750488688
+C1,'ministry construction transportation', 0.004463558750488688
+C1,'incheon international airport', 0.004463558750488688
+C1,'air transport', 0.004385549539416866
+C1,'pilot association', 0.004244195820443304
+C1,'record jet', 0.0038835688354557384
+C1,'xinhua liu jianfeng', 0.003828980518491501
+C1,'pavel shevtsov', 0.0037699333693332693
+C1,'usa 11 september', 0.0037699333693332693
+C1,'transport head', 0.0037699333693332693
+C1,'aleksandr neradko', 0.0037699333693332693
+C1,'friday first', 0.0037699333693332693
+C1,'the company', 0.003565145839007174
+C1,'soon possible', 0.003565145839007174
+C1,'tempio pausania', 0.003087287575624583
+C1,'safety standard', 0.0026880675686765726
+C1,'jimenez neira', 0.0025890458903038258
+C1,'certification process', 0.0025890458903038258
+C1,'aces tampa', 0.0025890458903038258
+C1,'operation colombian', 0.0025890458903038258
+C1,'remain ground', 0.0025890458903038258
+C1,'jet engine', 0.0025890458903038258
+C1,'inspection civil aeronautics', 0.0025890458903038258
+C1,'avianca aces', 0.0025890458903038258
+C1,'dc9 jet', 0.0025890458903038258
+C1,'duty monitor', 0.0025890458903038258
+C1,'for example', 0.002546517492265982
+C1,'the pilot', 0.002546517492265982
+C1,'duty time', 0.002546517492265982
+C1,'van caelenberg', 0.002546517492265982
+C1,'whole series', 0.002546517492265982
+C1,'source say', 0.002505351255035947
+C1,'aircraft part', 0.0024698300604996666
+C1,'international standard', 0.001977756696655432
+C1,'managing director', 0.0018523725453747498
+C1,'social security', 0.0016976783281773217
+C1,'eat pilot', 0.0016976783281773217
+C1,'security contribution', 0.0016976783281773217
+C1,'foreign pilot', 0.0016976783281773217
+C1,'several occasion', 0.0016976783281773217
+C1,'find way', 0.0016976783281773217
+C1,'concern duty', 0.0016976783281773217
+C1,'association also', 0.0016976783281773217
+C1,'van oost', 0.0016976783281773217
+C1,'meet require', 0.0016976783281773217
+C1,'time complain', 0.0016976783281773217
+C1,'last year', 0.001694046062468298
+C1,'the investigation', 0.001629278461110415
+C1,'next four day', 0.0012945229451519129
+C1,'abel enrique', 0.0012945229451519129
+C1,'aviation authorities ground airline', 0.0012945229451519129
+C1,'october 1995', 0.0012945229451519129
+C1,'us federal aviation administration', 0.0012945229451519129
+C1,'neira colombian', 0.0012945229451519129
+C1,'civil aeronautics administrative directorate', 0.0012945229451519129
+C1,'four year ago', 0.0012945229451519129
+C1,'three nine', 0.0012945229451519129
+C1,'international civil aviation organization icao', 0.0012945229451519129
+C1,'part canadair', 0.0012349150302498333
+C1,'supply aircraft', 0.0012349150302498333
+C1,'make suspect', 0.0012349150302498333
+C1,'gino boselli', 0.0012349150302498333
+C1,'flight instrument', 0.0012349150302498333
+C1,'director gino boselli', 0.0012349150302498333
+C1,'bind meridiana', 0.0012349150302498333
+C1,'7 percent', 0.0012349150302498333
+C1,'sell part', 0.0012349150302498333
+C1,'pose threat', 0.0012349150302498333
+C1,'demolition dealer', 0.0012349150302498333
+C1,'italian airline', 0.0012349150302498333
+C1,'counterfeit document', 0.0012349150302498333
+C1,'transport safety', 0.0012349150302498333
+C1,'obtain 7 percent', 0.0012349150302498333
+C1,'newtech italia', 0.0012349150302498333
+C1,'market spare', 0.0012349150302498333
+C1,'newtech aerospace', 0.0012349150302498333
+C1,'part bind', 0.0012349150302498333
+C1,'threat public', 0.0012349150302498333
+C1,'whose managing', 0.0012349150302498333
+C1,'the investigator', 0.0012349150302498333
+C1,'public air', 0.0012349150302498333
+C1,'work order', 0.0012349150302498333
+C1,'lawyer course', 0.0012349150302498333
+C1,'charge obtain 7 percent', 0.0012349150302498333
+C1,'28 night', 0.0008488391640886608
+C1,'iwein van caelenberg', 0.0008488391640886608
+C1,'18 month ago', 0.0008488391640886608
+C1,'canada admittedly eat', 0.0008488391640886608
+C1,'around 40', 0.0008488391640886608
+C1,'zaventem airport', 0.0008488391640886608
+C1,'belgian civil aviation authority', 0.0008488391640886608
+C1,'eat eat', 0.0008488391640886608
+C1,'several successive day', 0.0008488391640886608
+C1,'michel daerden', 0.0008488391640886608
+C1,'eight day', 0.0008488391640886608
+C1,'lode van oost', 0.0008488391640886608
+C1,'european air transport', 0.0008488391640886608
+C1,'agalev flemish ecology party', 0.0008488391640886608
+C1,'minimum equipment list', 0.0008488391640886608
+C1,'six day', 0.0008488391640886608
+C1,'28 day', 0.0008488391640886608
+C1,'dhl airline safety standards questioned the belgian pilot', 0.0008488391640886608
+C1,'one week later', 0.0008488391640886608
+C1,'incidentally eat', 0.0008488391640886608
+C1,'jean de looze', 0.0008488391640886608
+C1,'29 june', 0.0008488391640886608
+C1,'united kingdom', 0.000663703699195513
+C1,'last week', 0.000663703699195513
+C1,'italy george schuster', 0.0006174575151249166
+C1,'sardinia public prosecutor office', 0.0006174575151249166
+C1,'mitchell air kraft', 0.0006174575151249166
+C1,'european community', 0.0006174575151249166
+C1,'last day', 0.0006174575151249166
+C1,'ciampino rome', 0.0006174575151249166
+C1,'meridiana newtech italia newtech aerospace', 0.0006174575151249166
+C1,'meridiana air', 0.0006174575151249166
+C1,'air dolomiti alpi eagles air sicilia azzurra minerca volare', 0.0006174575151249166
+C1,'sicily 1996', 0.0006174575151249166
+C1,'air stocks inc iunc inc danbeemitchell aviation sales company', 0.0006174575151249166
+C1,'inc international airline support group canada pole air2', 0.0006174575151249166
+C1,'meridiana italian', 0.0006174575151249166
+C1,'finance police', 0.0006174575151249166
+C1,'enzo fregonese', 0.0006174575151249166
+C1,'exadria airways', 0.0006174575151249166
+C1,'renato perinu', 0.0006174575151249166
+C1,'gino boselli corrias', 0.0006174575151249166
+C1,'montalto brothers palermo', 0.0006174575151249166
+C1,'paolo ponassi', 0.0006174575151249166
+C1,'gip ponassi', 0.0006174575151249166
+C1,'paolo pietro', 0.0006174575151249166
+C1,'safe wings tempio', 0.0006174575151249166
+C1,'review court', 0.0006174575151249166
+C1,'25 april 1999', 0.0006174575151249166
+C1,'jaa joint aviation authority', 0.0006174575151249166
+C1,'sardinian investigation reveals spare partstrade posing threat airline safety rome imagine', 0.0006174575151249166
+C1,'enac national civil aviation board', 0.0006174575151249166
+C1,'us canadian', 0.0006174575151249166
+C1,'say the', 0.0005018915198747993
+C1,'it also', 0.0004040104025023967
+C1,'hoof mouth', 0.0
+C1,'katsuura city', 0.0
+C1,'claim abbey', 0.0
+C1,'past month', 0.0
+C1,'11 million yen', 0.0
+C1,'mr takanaka', 0.0
+C1,'measure adopt', 0.0
+C1,'participant also', 0.0
+C1,'5 five percent', 0.0
+C1,'standard chartered bank', 0.0
+C1,'palestinian authority', 0.0
+C1,'fundamental economy', 0.0
+C1,'rajihah abbud', 0.0
+C1,'marzano claim', 0.0
+C1,'mortgage price', 0.0
+C1,'housing loan corp', 0.0
+C1,'francois daubert', 0.0
+C1,'i think', 0.0
+C1,'financial policies', 0.0
+C1,'housing loan corporation', 0.0
+C1,'bank yokohama', 0.0
+C1,'orientate toward', 0.0
+C1,'151 million', 0.0
+C1,'170million yen', 0.0
+C1,'alif ba', 0.0
+C1,'jacques chirac', 0.0
+C1,'60 percent', 0.0
+C1,'january 18', 0.0
+C1,'16 february', 0.0
+C1,'980 percent', 0.0
+C1,'primacy market for german green', 0.0
+C1,'takenaka purchase', 0.0
+C1,'dr munaf', 0.0
+C1,'twp due', 0.0
+C1,'in case', 0.0
+C1,'german greens', 0.0
+C1,'british sheep', 0.0
+C1,'25 trillion yen', 0.0
+C1,'minister economic', 0.0
+C1,'outbreak hoof', 0.0
+C1,'minister position', 0.0
+C1,'popular bank milan', 0.0
+C1,'les echos', 0.0
+C1,'koizumi administration', 0.0
+C1,'recent month', 0.0
+C1,'postdisaster recovery commission', 0.0
+C1,'unfair competition', 0.0
+C1,'three year ago', 0.0
+C1,'okawabata liberty city', 0.0
+C1,'west bank', 0.0
+C1,'bank sufficient business year', 0.0
+C1,'24 percent', 0.0
+C1,'322 month', 0.0
+C1,'emu economic monetary union abbey', 0.0
+C1,'bank loan bank', 0.0
+C1,'zu baringdorf', 0.0
+C1,'baringdorf say', 0.0
+C1,'last fall', 0.0
+C1,'romano prodi', 0.0
+C1,'september 1999', 0.0
+C1,'quai dorsay', 0.0
+C1,'2 percent', 0.0
+C1,'alif ba hoof mouth disease', 0.0
+C1,'bank italy', 0.0
+C1,'position mr', 0.0
+C1,'342 million yen', 0.0
+C1,'mediumsize corporation', 0.0
+C1,'european union', 0.0
+C1,'german greens congress stuttgart', 0.0
+C1,'group corporation', 0.0
+C1,'legal action', 0.0
+C1,'house stand', 0.0
+C1,'heizo takenaka', 0.0
+C1,'the move', 0.0
+C1,'loan rate', 0.0
+C1,'181million yen', 0.0
+C1,'way say', 0.0
+C1,'takanaka two', 0.0
+C1,'cut bank italy', 0.0
+C1,'health david byrne', 0.0
+C1,'earlier day', 0.0
+C1,'92000 65 percent', 0.0
+C1,'the increase', 0.0
+C1,'netherlands le figaro are', 0.0
+C1,'european court', 0.0
+C1,'berlin agreement', 0.0
+C1,'50 million yen', 0.0
+C1,'257 billion', 0.0
+C1,'351 million yen', 0.0
+C1,'40 million yen', 0.0
+C1,'4 8 percent', 0.0
+C1,'channel france', 0.0
+C1,'vaccine due', 0.0
+C1,'quality agriculture', 0.0
+C1,'shaab kafr manda', 0.0
+C1,'greece the state veterinary health inspection service', 0.0
+C1,'asahi daiwa', 0.0
+C1,'two month', 0.0
+C1,'april 24', 0.0
+C1,'march 1999', 0.0
+C1,'orne mayenne', 0.0
+C1,'financial services agency', 0.0
+C1,'graefe zu', 0.0
+C1,'purchase summer', 0.0
+C1,'european parliament', 0.0
+C1,'march 29', 0.0
+C1,'70million yen', 0.0
+C1,'le figaro francois daubert', 0.0
+C1,'bank say', 0.0
+C1,'mortgage rate', 0.0
+C1,'20 march', 0.0
+C1,'loan arrangement', 0.0
+C1,'friedrich wilhelm', 0.0
+C1,'prodi insists lowering mortgage rates ansa', 0.0
+C1,'the mortgage', 0.0
+C1,'only french', 0.0
+C1,'dishon dalton selling', 0.0
+C1,'hongkong bank chase manhattan bank', 0.0
+C1,'drug vaccine', 0.0
+C1,'ciampi say', 0.0
+C1,'15 year', 0.0
+C1,'abbey national', 0.0
+C1,'restore le', 0.0
+C1,'650 million', 0.0
+C1,'economic financial', 0.0
+C1,'ostfold vestfold', 0.0
+C1,'the weekly post', 0.0
+C1,'new loan', 0.0
+C1,'181 million yen', 0.0
+C1,'22 percent', 0.0
+C1,'give mr', 0.0
+C1,'issue management', 0.0
+C1,'mr mrs takenaka', 0.0
+C1,'questions takenaka personal financial transactions', 0.0
+C1,'un inspection', 0.0
+C1,'hundreds thousand', 0.0
+C1,'117 billion', 0.0
+C1,'lower mortgage', 0.0
+C1,'another year', 0.0
+C1,'house own', 0.0
+C1,'price war', 0.0
+C1,'basis point', 0.0
+C1,'agriculture rural development commission european parliament', 0.0
+C1,'estate property', 0.0
+C1,'499 million yen', 0.0
+C1,'tokyomitsubishi bank mr', 0.0
+C1,'3 percent', 0.0
+C1,'may 45', 0.0
+C1,'loan tokyomitsubishi bank', 0.0
+C1,'receive special', 0.0
+C1,'144 million 80 percent', 0.0
+C1,'buy home', 0.0
+C1,'say graefe', 0.0
+C1,'bank system', 0.0
+C1,'carlo azeglio ciampi', 0.0
+C1,'exist mortgage', 0.0
+C1,'asahi bank mr takenaka', 0.0
+C1,'prodi cassaro', 0.0
+C1,'jean glavany', 0.0
+C1,'housing loan corp construction', 0.0
+C1,'bank give', 0.0
+C1,'yen approx', 0.0
+C1,'negev samaria', 0.0
+C1,'pompidou quite', 0.0
+C1,'first half year', 0.0
+C1,'4 percent', 0.0
+C1,'financial affairs', 0.0
+C1,'north korea', 0.0
+C1,'975 per cent', 0.0
+C1,'yukio sakurai', 0.0
+C1,'european monetary institute', 0.0
+C1,'agriculture ministry', 0.0
+C1,'1 million', 0.0
+C1,'health problem', 0.0
+C1,'july 273', 0.0
+C1,'2 million', 0.0
+C1,'takenaka special', 0.0
+C1,'233 per cent', 0.0
+C1,'channel every day', 0.0
+C1,'takenaka pay', 0.0
+C1,'10 month', 0.0
+C1,'takenaka already', 0.0
+C1,'level mr', 0.0
+C1,'12 percent', 0.0
+C1,'285 percent', 0.0
+C1,'30million yen approx', 0.0
+C1,'two ministerlevel', 0.0
+C1,'economic strategy committee', 0.0
+C1,'the weekly post twp', 0.0
+C1,'minister financial affairs', 0.0
+C1,'4 5', 0.0
+C1,'40million yen', 0.0
+C1,'fix mortgage', 0.0
+C1,'170 million yen', 0.0
+C1,'financial affairs minister', 0.0
+C1,'policies minister', 0.0
+C1,'95 per cent', 0.0
+C1,'tokyomitsubishi bank give', 0.0
+C1,'lower rate', 0.0
+C1,'prime minister', 0.0
+C1,'grant mr', 0.0
+C1,'25 basis', 0.0
+C1,'20 year', 0.0
+C1,'the tokyo stock market', 0.0
+C1,'loan bank', 0.0
+C1,'japan success', 0.0
+C1,'925 per cent', 0.0
+C1,'france glavany', 0.0
+C1,'50million yen', 0.0
+C1,'home build', 0.0
+C1,'le figaro', 0.0
+C1,'approx 417000', 0.0
+C1,'iraqi veterinary union', 0.0
+C1,'first two day', 0.0
+C1,'house loan', 0.0
+C1,'12 percent rate', 0.0
+C1,'5 percent', 0.0
+C1,'160 million yen', 0.0
+C1,'european parliament agriculture commission', 0.0
+C1,'mr takenaka', 0.0
+C1,'recent week', 0.0
+C1,'cna pm', 0.0
+C1,'premier prodi', 0.0
+C1,'also point', 0.0
+C1,'hoof mouth disease', 0.0
+C1,'the ministry finance', 0.0
+C1,'the public communication department', 0.0
+C1,'indepth reform', 0.0
+C1,'abbas we', 0.0
+C1,'april night', 0.0
+C1,'enrico micheli', 0.0
+C1,'rate mr', 0.0
+C1,'late last year', 0.0
+C1,'baringdorf british', 0.0
+C1,'qusayfah moshav tidhar', 0.0
+C1,'i say', 0.0
+C1,'antonio marzano', 0.0
+C1,'200 million yen', 0.0
+C1,'abbud how', 0.0
+C1,'249 billion', 0.0
+C1,'10 per cent', 0.0
+C1,'mrs takenaka their', 0.0
+C1,'two year', 0.0
+C1,'the loan', 0.0
+C1,'14 trillion yen', 0.0
+C1,'but clear', 0.0
+C1,'loan guarantee', 0.0
+C1,'the italian banking association', 0.0
+C1,'chris langley', 0.0
+C1,'produce drug', 0.0
+C1,'the agriculture ministry veterinary service', 0.0
+C1,'tancredi bianchi', 0.0
+C1,'30 month old', 0.0
+C1,'daiwa bank', 0.0
+C1,'spread hoof', 0.0
+C1,'mortgage loan', 0.0
+C1,'142 million', 0.0
+C1,'167 million', 0.0
+C1,'133 million', 0.0
+C1,'special treatment', 0.0
+C1,'january year estimate 28900', 0.0
+C1,'major bank', 0.0
+C1,'rate since', 0.0
+C1,'last several year', 0.0
+C1,'favor mr', 0.0
+C1,'small mediumsize', 0.0
+C1,'hong kong monetary authority', 0.0
+C1,'inspection team', 0.0
+C1,'european central bank', 0.0
+C1,'mouth disease', 0.0
+C1,'answer question', 0.0
+C1,'the weekly post internet', 0.0
+C1,'real estate', 0.0
+C1,'treatment bank', 0.0
+C1,'hongkong bank', 0.0
+C1,'hayes research center', 0.0
+C1,'central bank', 0.0
+C1,'raise fix', 0.0
+C1,'late july', 0.0
+C1,'first half', 0.0
+C1,'the rate', 0.0
+C1,'the participant', 0.0
+C1,'bank raise', 0.0
+C1,'iraqi state veterinary organization', 0.0
+C1,'mortgage bank', 0.0
+C1,'20 million 975 per cent', 0.0
+C1,'france socialist', 0.0
+C1,'50 percent', 0.0
+C1,'risona holding co', 0.0
+C1,'bank special', 0.0
+C1,'abbey 4 rate include commission', 0.0
+C1,'per cent', 0.0
+C1,'baringdorf mep', 0.0
+C1,'hubert vedrine', 0.0
+C1,'hebron alzahiriyah bedouin', 0.0
+C1,'property in', 0.0
+C1,'40 per cent', 0.0
+C1,'preventive treatment', 0.0
+C1,'yu shyikun', 0.0
+C1,'april last year', 0.0
+C1,'french german', 0.0
+C1,'corporation bank', 0.0
+C1,'agriculture minister', 0.0
+C1,'katsutsugu sekiya', 0.0
+C1,'5 rate', 0.0
+C1,'mortgage lend', 0.0
+C1,'i see', 0.0
+C1,'anticipating german greens congress', 0.0
+C1,'french food health safety agency', 0.0
+C1,'hayes inc', 0.0
+C1,'glavany i', 0.0
+C1,'raw material', 0.0
+C1,'lower house', 0.0
+C1,'the disease', 0.0
+C1,'522 square meter', 0.0
+C1,'shukan posuto', 0.0
+C1,'italian banking association tancredi bianchi prodi', 0.0
+C1,'state veterinary organization', 0.0
+C1,'joschka fischer', 0.0
+C1,'prof arnon shimshoni', 0.0
+C1,'tancredi bianchi carry press', 0.0
+C1,'condominium apartment', 0.0
+C1,'ufj bank', 0.0
+C1,'loan first', 0.0
+C1,'junichiro koizumi', 0.0
+C1,'france realization', 0.0
+C1,'bernard kouchner', 0.0
+C1,'takenaka receive', 0.0
+C1,'loan in', 0.0
+C1,'1 percent', 0.0
+C1,'fonspa renato cassaro', 0.0
+C1,'special favor', 0.0
+C1,'five percent', 0.0
+C1,'the outbreak', 0.0
+C1,'guarantee corporation', 0.0
+C1,'early may', 0.0
+C1,'speaking senate', 0.0
+C1,'the european commission', 0.0
+C1,'mrs takenaka', 0.0
+C1,'year mr', 0.0
+C1,'93 million yen', 0.0
+C1,'discount rate', 0.0
+C1,'2 january', 0.0
+C1,'outrageously low interest rate', 0.0
+C1,'dr abdalilah hamid', 0.0
+C1,'875 per cent', 0.0
+C1,'takenaka seems', 0.0
+C1,'policy cap', 0.0
+C1,'exactly 65', 0.0
+C1,'british bank', 0.0
+C1,'post minister', 0.0
+C1,'bank italy discount', 0.0
+C1,'70 percent', 0.0
+C1,'commission cost', 0.0
+C1,'must exist', 0.0
+C1,'fsa issue', 0.0
+C1,'foreign ministry', 0.0
+C1,'tuesday 13 march', 0.0
+C1,'april 22', 0.0
+C1,'october 18', 0.0
+C1,'bedouin village', 0.0
+C1,'summer house', 0.0
+C1,'march 18', 0.0
+C1,'alkindi company industry ministry', 0.0
+C1,'disease break', 0.0
+C1,'21 1999', 0.0
+C1,'sanctions committee', 0.0
+C1,'hang seng bank', 0.0
+C1,'237 per cent', 0.0
+C1,'german greens congress', 0.0
+C1,'bank japan boj', 0.0
+C1,'fuji bank', 0.0
+C1,'graefe zu baringdorf health controls', 0.0
+C1,'micheli say', 0.0
+C1,'hayes research center inc', 0.0
+C1,'speaking european parliament', 0.0
+C1,'asahi bank', 0.0
+C1,'tokyomitsubishi bank', 0.0
+C1,'lend rate', 0.0
+C1,'100 million yen', 0.0
+C1,'according graefe', 0.0
+C1,'monetary authority', 0.0
+C1,'balance loan', 0.0
+C1,'almost 30 percent', 0.0
+C1,'hayes research center inc he', 0.0
+C4,'mouth disease', 0.021017068504036004
+C4,'hoof mouth', 0.020433019697824947
+C4,'hoof mouth disease', 0.017787104326745327
+C4,'the disease', 0.012474672733682168
+C4,'drug vaccine', 0.012400433005816957
+C4,'zu baringdorf', 0.011158184530426876
+C4,'graefe zu', 0.011158184530426876
+C4,'north korea', 0.008474810214261188
+C4,'agriculture minister', 0.007116756906615408
+C4,'un inspection', 0.007010696560844842
+C4,'inspection team', 0.007010696560844842
+C4,'le figaro', 0.006950363762379323
+C4,'disease break', 0.006944036045916852
+C4,'greece the state veterinary health inspection service', 0.00681985800503851
+C4,'ostfold vestfold', 0.00681985800503851
+C4,'first two day', 0.00681985800503851
+C4,'agriculture ministry', 0.006050292360634635
+C4,'iraqi veterinary union', 0.0054233000517883035
+C4,'dr abdalilah hamid', 0.0054233000517883035
+C4,'vaccine due', 0.005314471288207267
+C4,'preventive treatment', 0.005314471288207267
+C4,'raw material', 0.005314471288207267
+C4,'european parliament', 0.005071902059284944
+C4,'baringdorf say', 0.005071902059284944
+C4,'bedouin village', 0.004629357363944568
+C4,'abbas we', 0.0035429808588048448
+C4,'abbud how', 0.0035429808588048448
+C4,'produce drug', 0.0035429808588048448
+C4,'spread hoof', 0.0035429808588048448
+C4,'state veterinary organization', 0.0035429808588048448
+C4,'alif ba', 0.0035429808588048448
+C4,'glavany i', 0.0034751818811896615
+C4,'german greens', 0.0034246269723577
+C4,'in case', 0.0031280946193652714
+C4,'the company', 0.0027702415270769234
+C4,'quality agriculture', 0.0025782737778163077
+C4,'qusayfah moshav tidhar', 0.002314678681972284
+C4,'hebron alzahiriyah bedouin', 0.002314678681972284
+C4,'the agriculture ministry veterinary service', 0.002314678681972284
+C4,'palestinian authority', 0.002314678681972284
+C4,'prof arnon shimshoni', 0.002314678681972284
+C4,'shaab kafr manda', 0.002314678681972284
+C4,'dishon dalton selling', 0.002314678681972284
+C4,'west bank', 0.002314678681972284
+C4,'negev samaria', 0.002314678681972284
+C4,'german greens congress', 0.0022830846482384667
+C4,'outbreak hoof', 0.0022830846482384667
+C4,'berlin agreement', 0.0022830846482384667
+C4,'restore le', 0.0022830846482384667
+C4,'the outbreak', 0.0022830846482384667
+C4,'say the', 0.0021601856590197275
+C4,'soon possible', 0.0020379223481038823
+C4,'must exist', 0.0020287608237139773
+C4,'according graefe', 0.0020287608237139773
+C4,'orientate toward', 0.0020287608237139773
+C4,'european parliament agriculture commission', 0.0020287608237139773
+C4,'say graefe', 0.0020287608237139773
+C4,'indepth reform', 0.0020287608237139773
+C4,'but clear', 0.0020287608237139773
+C4,'dr munaf', 0.0017714904294024224
+C4,'alif ba hoof mouth disease', 0.0017714904294024224
+C4,'alkindi company industry ministry', 0.0017714904294024224
+C4,'iraqi state veterinary organization', 0.0017714904294024224
+C4,'sanctions committee', 0.0017714904294024224
+C4,'rajihah abbud', 0.0017714904294024224
+C4,'british sheep', 0.0017375909405948308
+C4,'health problem', 0.0017375909405948308
+C4,'france glavany', 0.0017375909405948308
+C4,'francois daubert', 0.0017375909405948308
+C4,'past month', 0.0017375909405948308
+C4,'measure adopt', 0.0017375909405948308
+C4,'france socialist', 0.0011415423241192334
+C4,'jean glavany', 0.0011415423241192334
+C4,'hubert vedrine', 0.0011415423241192334
+C4,'french german', 0.0011415423241192334
+C4,'anticipating german greens congress', 0.0011415423241192334
+C4,'france realization', 0.0011415423241192334
+C4,'foreign ministry', 0.0011415423241192334
+C4,'tuesday 13 march', 0.0011415423241192334
+C4,'les echos', 0.0011415423241192334
+C4,'recent month', 0.0011415423241192334
+C4,'joschka fischer', 0.0011415423241192334
+C4,'german greens congress stuttgart', 0.0011415423241192334
+C4,'20 march', 0.0011415423241192334
+C4,'last fall', 0.0011415423241192334
+C4,'quai dorsay', 0.0011415423241192334
+C4,'channel france', 0.0011415423241192334
+C4,'recent week', 0.0011415423241192334
+C4,'agriculture rural development commission european parliament', 0.0010143804118569887
+C4,'pompidou quite', 0.0010143804118569887
+C4,'baringdorf british', 0.0010143804118569887
+C4,'baringdorf mep', 0.0010143804118569887
+C4,'the european commission', 0.0010143804118569887
+C4,'policy cap', 0.0010143804118569887
+C4,'graefe zu baringdorf health controls', 0.0010143804118569887
+C4,'speaking european parliament', 0.0010143804118569887
+C4,'jacques chirac', 0.0010143804118569887
+C4,'16 february', 0.0010143804118569887
+C4,'primacy market for german green', 0.0010143804118569887
+C4,'health david byrne', 0.0010143804118569887
+C4,'friedrich wilhelm', 0.0010143804118569887
+C4,'only french', 0.0010143804118569887
+C4,'march 1999', 0.0008925670437456897
+C4,'hundreds thousand', 0.0008687954702974154
+C4,'50 percent', 0.0008687954702974154
+C4,'french food health safety agency', 0.0008687954702974154
+C4,'channel every day', 0.0008687954702974154
+C4,'2 january', 0.0008687954702974154
+C4,'30 month old', 0.0008687954702974154
+C4,'bernard kouchner', 0.0008687954702974154
+C4,'orne mayenne', 0.0008687954702974154
+C4,'almost 30 percent', 0.0008687954702974154
+C4,'980 percent', 0.0008687954702974154
+C4,'netherlands le figaro are', 0.0008687954702974154
+C4,'european court', 0.0008687954702974154
+C4,'le figaro francois daubert', 0.0008687954702974154
+C4,'united kingdom', 0.0007931396903249283
+C4,'prime minister', 0.0007469258411206307
+C4,'i think', 0.000568464062788364
+C4,'claim abbey', 0.0
+C4,'katsuura city', 0.0
+C4,'11 million yen', 0.0
+C4,'mr takanaka', 0.0
+C4,'participant also', 0.0
+C4,'5 five percent', 0.0
+C4,'standard chartered bank', 0.0
+C4,'fundamental economy', 0.0
+C4,'air stocks inc iunc inc danbeemitchell aviation sales company', 0.0
+C4,'aviation safe', 0.0
+C4,'marzano claim', 0.0
+C4,'mortgage price', 0.0
+C4,'housing loan corp', 0.0
+C4,'italian airline', 0.0
+C4,'association also', 0.0
+C4,'agalev flemish ecology party', 0.0
+C4,'270 million yuan', 0.0
+C4,'financial policies', 0.0
+C4,'housing loan corporation', 0.0
+C4,'bank yokohama', 0.0
+C4,'151 million', 0.0
+C4,'170million yen', 0.0
+C4,'meridiana italian', 0.0
+C4,'60 percent', 0.0
+C4,'security contribution', 0.0
+C4,'flight safety', 0.0
+C4,'january 18', 0.0
+C4,'supply aircraft', 0.0
+C4,'friday first', 0.0
+C4,'transport safety', 0.0
+C4,'takenaka purchase', 0.0
+C4,'twp due', 0.0
+C4,'air transport', 0.0
+C4,'25 trillion yen', 0.0
+C4,'minister economic', 0.0
+C4,'minister position', 0.0
+C4,'popular bank milan', 0.0
+C4,'koizumi administration', 0.0
+C4,'postdisaster recovery commission', 0.0
+C4,'unfair competition', 0.0
+C4,'international standard', 0.0
+C4,'three year ago', 0.0
+C4,'okawabata liberty city', 0.0
+C4,'bank sufficient business year', 0.0
+C4,'ministry construction transportation', 0.0
+C4,'24 percent', 0.0
+C4,'record jet', 0.0
+C4,'civil aviation administration', 0.0
+C4,'make suspect', 0.0
+C4,'last week', 0.0
+C4,'european community', 0.0
+C4,'322 month', 0.0
+C4,'emu economic monetary union abbey', 0.0
+C4,'civil aeronautics administrative directorate', 0.0
+C4,'certification process', 0.0
+C4,'flight instrument', 0.0
+C4,'bank loan bank', 0.0
+C4,'ciampino rome', 0.0
+C4,'route airport', 0.0
+C4,'romano prodi', 0.0
+C4,'september 1999', 0.0
+C4,'2 percent', 0.0
+C4,'four year ago', 0.0
+C4,'exadria airways', 0.0
+C4,'foreign pilot', 0.0
+C4,'for example', 0.0
+C4,'aces tampa', 0.0
+C4,'bank italy', 0.0
+C4,'minimum equipment list', 0.0
+C4,'position mr', 0.0
+C4,'part bind', 0.0
+C4,'342 million yen', 0.0
+C4,'six day', 0.0
+C4,'mediumsize corporation', 0.0
+C4,'renato perinu', 0.0
+C4,'european union', 0.0
+C4,'legal action', 0.0
+C4,'group corporation', 0.0
+C4,'meridiana newtech italia newtech aerospace', 0.0
+C4,'house stand', 0.0
+C4,'liu jianfeng', 0.0
+C4,'heizo takenaka', 0.0
+C4,'meridiana air', 0.0
+C4,'the move', 0.0
+C4,'loan rate', 0.0
+C4,'181million yen', 0.0
+C4,'bind meridiana', 0.0
+C4,'28 day', 0.0
+C4,'dhl airline safety standards questioned the belgian pilot', 0.0
+C4,'airline liu jianfeng', 0.0
+C4,'7 percent', 0.0
+C4,'way say', 0.0
+C4,'takanaka two', 0.0
+C4,'the pilot', 0.0
+C4,'cut bank italy', 0.0
+C4,'earlier day', 0.0
+C4,'three nine', 0.0
+C4,'several occasion', 0.0
+C4,'92000 65 percent', 0.0
+C4,'the increase', 0.0
+C4,'incheon international airport', 0.0
+C4,'threat public', 0.0
+C4,'50 million yen', 0.0
+C4,'257 billion', 0.0
+C4,'351 million yen', 0.0
+C4,'40 million yen', 0.0
+C4,'4 8 percent', 0.0
+C4,'find way', 0.0
+C4,'march april', 0.0
+C4,'air china', 0.0
+C4,'asahi daiwa', 0.0
+C4,'international civil aviation organization icao', 0.0
+C4,'gino boselli corrias', 0.0
+C4,'two month', 0.0
+C4,'belgian civil aviation authority', 0.0
+C4,'april 24', 0.0
+C4,'police force', 0.0
+C4,'financial services agency', 0.0
+C4,'next four day', 0.0
+C4,'air dolomiti alpi eagles air sicilia azzurra minerca volare', 0.0
+C4,'purchase summer', 0.0
+C4,'march 29', 0.0
+C4,'70million yen', 0.0
+C4,'bank say', 0.0
+C4,'mortgage rate', 0.0
+C4,'pilot association', 0.0
+C4,'jean de looze', 0.0
+C4,'montalto brothers palermo', 0.0
+C4,'loan arrangement', 0.0
+C4,'managing director', 0.0
+C4,'safety guideline', 0.0
+C4,'prodi insists lowering mortgage rates ansa', 0.0
+C4,'the mortgage', 0.0
+C4,'whose managing', 0.0
+C4,'gip ponassi', 0.0
+C4,'hongkong bank chase manhattan bank', 0.0
+C4,'ciampi say', 0.0
+C4,'29 june', 0.0
+C4,'air nauru', 0.0
+C4,'source say', 0.0
+C4,'15 year', 0.0
+C4,'abbey national', 0.0
+C4,'concern duty', 0.0
+C4,'abel enrique', 0.0
+C4,'safety standard', 0.0
+C4,'650 million', 0.0
+C4,'28 night', 0.0
+C4,'inc international airline support group canada pole air2', 0.0
+C4,'economic financial', 0.0
+C4,'the weekly post', 0.0
+C4,'new loan', 0.0
+C4,'safe wings tempio', 0.0
+C4,'181 million yen', 0.0
+C4,'22 percent', 0.0
+C4,'give mr', 0.0
+C4,'issue management', 0.0
+C4,'review court', 0.0
+C4,'mr mrs takenaka', 0.0
+C4,'questions takenaka personal financial transactions', 0.0
+C4,'117 billion', 0.0
+C4,'lower mortgage', 0.0
+C4,'another year', 0.0
+C4,'house own', 0.0
+C4,'price war', 0.0
+C4,'finance police', 0.0
+C4,'basis point', 0.0
+C4,'counterfeit document', 0.0
+C4,'estate property', 0.0
+C4,'499 million yen', 0.0
+C4,'tokyomitsubishi bank mr', 0.0
+C4,'3 percent', 0.0
+C4,'may 45', 0.0
+C4,'public air', 0.0
+C4,'receive special', 0.0
+C4,'loan tokyomitsubishi bank', 0.0
+C4,'sept 11', 0.0
+C4,'144 million 80 percent', 0.0
+C4,'world cup', 0.0
+C4,'buy home', 0.0
+C4,'bank system', 0.0
+C4,'carlo azeglio ciampi', 0.0
+C4,'exist mortgage', 0.0
+C4,'asahi bank mr takenaka', 0.0
+C4,'van caelenberg', 0.0
+C4,'prodi cassaro', 0.0
+C4,'operation colombian', 0.0
+C4,'housing loan corp construction', 0.0
+C4,'security check', 0.0
+C4,'bank give', 0.0
+C4,'yen approx', 0.0
+C4,'enzo fregonese', 0.0
+C4,'xinhua liu jianfeng', 0.0
+C4,'obtain 7 percent', 0.0
+C4,'iwein van caelenberg', 0.0
+C4,'newtech italia', 0.0
+C4,'first half year', 0.0
+C4,'4 percent', 0.0
+C4,'market spare', 0.0
+C4,'financial affairs', 0.0
+C4,'aircraft part', 0.0
+C4,'975 per cent', 0.0
+C4,'yukio sakurai', 0.0
+C4,'european monetary institute', 0.0
+C4,'newtech aerospace', 0.0
+C4,'sardinian investigation reveals spare partstrade posing threat airline safety rome imagine', 0.0
+C4,'world cup asian games', 0.0
+C4,'1 million', 0.0
+C4,'july 273', 0.0
+C4,'2 million', 0.0
+C4,'takenaka special', 0.0
+C4,'233 per cent', 0.0
+C4,'takenaka pay', 0.0
+C4,'10 month', 0.0
+C4,'takenaka already', 0.0
+C4,'level mr', 0.0
+C4,'12 percent', 0.0
+C4,'285 percent', 0.0
+C4,'30million yen approx', 0.0
+C4,'two ministerlevel', 0.0
+C4,'18 month ago', 0.0
+C4,'economic strategy committee', 0.0
+C4,'the weekly post twp', 0.0
+C4,'minister financial affairs', 0.0
+C4,'civil air', 0.0
+C4,'4 5', 0.0
+C4,'pacific state niue', 0.0
+C4,'40million yen', 0.0
+C4,'united states', 0.0
+C4,'remain ground', 0.0
+C4,'fix mortgage', 0.0
+C4,'canada admittedly eat', 0.0
+C4,'170 million yen', 0.0
+C4,'around 40', 0.0
+C4,'financial affairs minister', 0.0
+C4,'policies minister', 0.0
+C4,'95 per cent', 0.0
+C4,'tokyomitsubishi bank give', 0.0
+C4,'van oost', 0.0
+C4,'lower rate', 0.0
+C4,'grant mr', 0.0
+C4,'25 basis', 0.0
+C4,'20 year', 0.0
+C4,'the tokyo stock market', 0.0
+C4,'japan success', 0.0
+C4,'loan bank', 0.0
+C4,'zaventem airport', 0.0
+C4,'925 per cent', 0.0
+C4,'50million yen', 0.0
+C4,'home build', 0.0
+C4,'approx 417000', 0.0
+C4,'duty time', 0.0
+C4,'house loan', 0.0
+C4,'october 1995', 0.0
+C4,'12 percent rate', 0.0
+C4,'5 percent', 0.0
+C4,'160 million yen', 0.0
+C4,'mr takenaka', 0.0
+C4,'cna pm', 0.0
+C4,'meet require', 0.0
+C4,'premier prodi', 0.0
+C4,'also point', 0.0
+C4,'paolo ponassi', 0.0
+C4,'civil aeronautics', 0.0
+C4,'colombian airline', 0.0
+C4,'the ministry finance', 0.0
+C4,'the public communication department', 0.0
+C4,'spare part', 0.0
+C4,'last year', 0.0
+C4,'april night', 0.0
+C4,'eat eat', 0.0
+C4,'enrico micheli', 0.0
+C4,'rate mr', 0.0
+C4,'late last year', 0.0
+C4,'i say', 0.0
+C4,'antonio marzano', 0.0
+C4,'jet engine', 0.0
+C4,'200 million yen', 0.0
+C4,'state council', 0.0
+C4,'mrs takenaka their', 0.0
+C4,'249 billion', 0.0
+C4,'10 per cent', 0.0
+C4,'the loan', 0.0
+C4,'two year', 0.0
+C4,'several successive day', 0.0
+C4,'14 trillion yen', 0.0
+C4,'loan guarantee', 0.0
+C4,'the italian banking association', 0.0
+C4,'chris langley', 0.0
+C4,'tempio pausania', 0.0
+C4,'tancredi bianchi', 0.0
+C4,'sardinia public prosecutor office', 0.0
+C4,'paolo pietro', 0.0
+C4,'daiwa bank', 0.0
+C4,'the investigator', 0.0
+C4,'mortgage loan', 0.0
+C4,'167 million', 0.0
+C4,'133 million', 0.0
+C4,'142 million', 0.0
+C4,'special treatment', 0.0
+C4,'january year estimate 28900', 0.0
+C4,'mitchell air kraft', 0.0
+C4,'major bank', 0.0
+C4,'favor mr', 0.0
+C4,'rate since', 0.0
+C4,'last several year', 0.0
+C4,'small mediumsize', 0.0
+C4,'hong kong monetary authority', 0.0
+C4,'us federal aviation administration', 0.0
+C4,'european central bank', 0.0
+C4,'answer question', 0.0
+C4,'rianovosti correspondent', 0.0
+C4,'the weekly post internet', 0.0
+C4,'real estate', 0.0
+C4,'time complain', 0.0
+C4,'325 million us dollar', 0.0
+C4,'hongkong bank', 0.0
+C4,'european air transport', 0.0
+C4,'hayes research center', 0.0
+C4,'treatment bank', 0.0
+C4,'25 april 1999', 0.0
+C4,'central bank', 0.0
+C4,'raise fix', 0.0
+C4,'jaa joint aviation authority', 0.0
+C4,'late july', 0.0
+C4,'eat pilot', 0.0
+C4,'part canadair', 0.0
+C4,'fiji australia', 0.0
+C4,'first half', 0.0
+C4,'the rate', 0.0
+C4,'the participant', 0.0
+C4,'bank raise', 0.0
+C4,'mortgage bank', 0.0
+C4,'20 million 975 per cent', 0.0
+C4,'risona holding co', 0.0
+C4,'bank special', 0.0
+C4,'abbey 4 rate include commission', 0.0
+C4,'per cent', 0.0
+C4,'inspection civil aeronautics', 0.0
+C4,'neira colombian', 0.0
+C4,'property in', 0.0
+C4,'40 per cent', 0.0
+C4,'yu shyikun', 0.0
+C4,'april last year', 0.0
+C4,'corporation bank', 0.0
+C4,'katsutsugu sekiya', 0.0
+C4,'5 rate', 0.0
+C4,'mortgage lend', 0.0
+C4,'i see', 0.0
+C4,'hayes inc', 0.0
+C4,'michel daerden', 0.0
+C4,'earlier month', 0.0
+C4,'royal tongan airlines', 0.0
+C4,'work order', 0.0
+C4,'pavel shevtsov', 0.0
+C4,'120 million yuan', 0.0
+C4,'lower house', 0.0
+C4,'last day', 0.0
+C4,'it also', 0.0
+C4,'aviation authorities ground airline', 0.0
+C4,'avianca aces', 0.0
+C4,'522 square meter', 0.0
+C4,'gino boselli', 0.0
+C4,'shukan posuto', 0.0
+C4,'italian banking association tancredi bianchi prodi', 0.0
+C4,'caac public security bureau', 0.0
+C4,'lawyer course', 0.0
+C4,'commercial airline', 0.0
+C4,'director gino boselli', 0.0
+C4,'tancredi bianchi carry press', 0.0
+C4,'condominium apartment', 0.0
+C4,'ufj bank', 0.0
+C4,'loan first', 0.0
+C4,'junichiro koizumi', 0.0
+C4,'dc9 jet', 0.0
+C4,'takenaka receive', 0.0
+C4,'loan in', 0.0
+C4,'usa 11 september', 0.0
+C4,'1 percent', 0.0
+C4,'fonspa renato cassaro', 0.0
+C4,'special favor', 0.0
+C4,'enac national civil aviation board', 0.0
+C4,'five percent', 0.0
+C4,'charge obtain 7 percent', 0.0
+C4,'eight day', 0.0
+C4,'guarantee corporation', 0.0
+C4,'early may', 0.0
+C4,'speaking senate', 0.0
+C4,'mrs takenaka', 0.0
+C4,'year mr', 0.0
+C4,'93 million yen', 0.0
+C4,'discount rate', 0.0
+C4,'civil aviation', 0.0
+C4,'sell part', 0.0
+C4,'one week later', 0.0
+C4,'outrageously low interest rate', 0.0
+C4,'875 per cent', 0.0
+C4,'takenaka seems', 0.0
+C4,'formation police', 0.0
+C4,'incidentally eat', 0.0
+C4,'exactly 65', 0.0
+C4,'british bank', 0.0
+C4,'post minister', 0.0
+C4,'bank italy discount', 0.0
+C4,'70 percent', 0.0
+C4,'commission cost', 0.0
+C4,'duty monitor', 0.0
+C4,'pose threat', 0.0
+C4,'us canadian', 0.0
+C4,'fsa issue', 0.0
+C4,'the investigation', 0.0
+C4,'april 22', 0.0
+C4,'october 18', 0.0
+C4,'summer house', 0.0
+C4,'march 18', 0.0
+C4,'21 1999', 0.0
+C4,'transport head', 0.0
+C4,'hang seng bank', 0.0
+C4,'237 per cent', 0.0
+C4,'145 million us dollar', 0.0
+C4,'lode van oost', 0.0
+C4,'bank japan boj', 0.0
+C4,'social security', 0.0
+C4,'fuji bank', 0.0
+C4,'micheli say', 0.0
+C4,'hayes research center inc', 0.0
+C4,'asahi bank', 0.0
+C4,'tokyomitsubishi bank', 0.0
+C4,'whole series', 0.0
+C4,'lend rate', 0.0
+C4,'jimenez neira', 0.0
+C4,'demolition dealer', 0.0
+C4,'100 million yen', 0.0
+C4,'italy george schuster', 0.0
+C4,'sicily 1996', 0.0
+C4,'monetary authority', 0.0
+C4,'aleksandr neradko', 0.0
+C4,'balance loan', 0.0
+C4,'hayes research center inc he', 0.0
+C7,'per cent', 0.024681094159851567
+C7,'mortgage rate', 0.018865375895157632
+C7,'mr takenaka', 0.015371481646181115
+C7,'fuji bank', 0.01082812207955007
+C7,'daiwa bank', 0.01082812207955007
+C7,'fix mortgage', 0.01082812207955007
+C7,'raise fix', 0.01082812207955007
+C7,'5 percent', 0.01026318882823538
+C7,'bank raise', 0.008766934567981206
+C7,'i say', 0.008330471890784641
+C7,'mortgage loan', 0.007945215727443874
+C7,'4 percent', 0.0074280686196806
+C7,'home build', 0.007390822861274292
+C7,'asahi bank', 0.006937482583047194
+C7,'2 percent', 0.0066802698382984966
+C7,'yen approx', 0.006148592658472446
+C7,'housing loan corp', 0.006079325062049887
+C7,'bank say', 0.005985955825576487
+C7,'hongkong bank', 0.00580731627290625
+C7,'price war', 0.00580731627290625
+C7,'975 per cent', 0.00580731627290625
+C7,'the participant', 0.0058046645303158825
+C7,'loan rate', 0.0058046645303158825
+C7,'participant also', 0.0058046645303158825
+C7,'lower rate', 0.0055807660547256485
+C7,'fundamental economy', 0.00554634176325994
+C7,'popular bank milan', 0.00554634176325994
+C7,'buy home', 0.00554634176325994
+C7,'exist mortgage', 0.00554634176325994
+C7,'five percent', 0.00554634176325994
+C7,'bank japan boj', 0.005414061039775035
+C7,'asahi daiwa', 0.005414061039775035
+C7,'i think', 0.005215079946034786
+C7,'micheli say', 0.005197144448647499
+C7,'bank system', 0.005197144448647499
+C7,'5 rate', 0.005197144448647499
+C7,'lend rate', 0.005159784171396779
+C7,'source say', 0.005087354521136799
+C7,'mortgage bank', 0.00483417586617706
+C7,'discount rate', 0.004363598502747085
+C7,'bank italy discount', 0.004363598502747085
+C7,'bank italy', 0.004363598502747085
+C7,'95 per cent', 0.004355487204679688
+C7,'first half', 0.004355487204679688
+C7,'mortgage price', 0.004355487204679688
+C7,'earlier month', 0.004233231089928451
+C7,'say the', 0.003863940188156529
+C7,'lower mortgage', 0.0038238451637473943
+C7,'new loan', 0.003706009139775288
+C7,'22 percent', 0.003695411430637146
+C7,'housing loan corp construction', 0.003695411430637146
+C7,'285 percent', 0.003695411430637146
+C7,'march 29', 0.003695411430637146
+C7,'late last year', 0.003695411430637146
+C7,'katsutsugu sekiya', 0.003695411430637146
+C7,'early may', 0.003695411430637146
+C7,'march 18', 0.003695411430637146
+C7,'24 percent', 0.003695411430637146
+C7,'summer house', 0.003074296329236223
+C7,'central bank', 0.003046583152553149
+C7,'tancredi bianchi', 0.0029822212984184668
+C7,'claim abbey', 0.0029822212984184668
+C7,'abbey national', 0.0029822212984184668
+C7,'monetary authority', 0.002903658136453125
+C7,'875 per cent', 0.002903658136453125
+C7,'the increase', 0.002903658136453125
+C7,'hang seng bank', 0.002903658136453125
+C7,'basis point', 0.002903658136453125
+C7,'the move', 0.002903658136453125
+C7,'25 basis', 0.002903658136453125
+C7,'925 per cent', 0.002903658136453125
+C7,'the rate', 0.002903658136453125
+C7,'mortgage lend', 0.002903658136453125
+C7,'loan first', 0.002903658136453125
+C7,'postdisaster recovery commission', 0.0029023322651579413
+C7,'the ministry finance', 0.0029023322651579413
+C7,'650 million', 0.0029023322651579413
+C7,'another year', 0.0029023322651579413
+C7,'cna pm', 0.0029023322651579413
+C7,'january year estimate 28900', 0.0029023322651579413
+C7,'yu shyikun', 0.0029023322651579413
+C7,'three year ago', 0.0029023322651579413
+C7,'1 percent', 0.0029023322651579413
+C7,'21 1999', 0.0029023322651579413
+C7,'romano prodi', 0.002809074480358595
+C7,'5 five percent', 0.00277317088162997
+C7,'last year', 0.0026693992401137343
+C7,'enrico micheli', 0.0025985722243237496
+C7,'lower house', 0.0025985722243237496
+C7,'earlier day', 0.0025985722243237496
+C7,'april 24', 0.0025985722243237496
+C7,'prodi insists lowering mortgage rates ansa', 0.0025985722243237496
+C7,'rate since', 0.002570830222558293
+C7,'prime minister', 0.002568853292350399
+C7,'bank give', 0.0023057222469271676
+C7,'it also', 0.0022508209827001697
+C7,'cut bank italy', 0.001988147532278978
+C7,'ciampi say', 0.001988147532278978
+C7,'british bank', 0.001988147532278978
+C7,'commission cost', 0.001988147532278978
+C7,'premier prodi', 0.001988147532278978
+C7,'also point', 0.001988147532278978
+C7,'marzano claim', 0.001988147532278978
+C7,'i see', 0.001988147532278978
+C7,'legal action', 0.001988147532278978
+C7,'way say', 0.001988147532278978
+C7,'unfair competition', 0.001988147532278978
+C7,'70million yen', 0.0019214352057726394
+C7,'financial affairs', 0.0019214352057726394
+C7,'1 million', 0.0019214352057726394
+C7,'real estate', 0.0019214352057726394
+C7,'hayes research center', 0.0019214352057726394
+C7,'tokyomitsubishi bank', 0.0019214352057726394
+C7,'2 million', 0.0017361236934656035
+C7,'the weekly post', 0.0015371481646181116
+C7,'takenaka pay', 0.0015371481646181116
+C7,'house loan', 0.0015371481646181116
+C7,'economic financial', 0.0015371481646181116
+C7,'answer question', 0.0015371481646181116
+C7,'special treatment', 0.0015371481646181116
+C7,'170million yen', 0.0015371481646181116
+C7,'takenaka purchase', 0.0015371481646181116
+C7,'minister position', 0.0015371481646181116
+C7,'hayes research center inc', 0.0015371481646181116
+C7,'hongkong bank chase manhattan bank', 0.0014518290682265626
+C7,'first half year', 0.0014518290682265626
+C7,'july 273', 0.0014518290682265626
+C7,'233 per cent', 0.0014518290682265626
+C7,'20 year', 0.0014518290682265626
+C7,'249 billion', 0.0014518290682265626
+C7,'10 per cent', 0.0014518290682265626
+C7,'chris langley', 0.0014518290682265626
+C7,'hong kong monetary authority', 0.0014518290682265626
+C7,'late july', 0.0014518290682265626
+C7,'20 million 975 per cent', 0.0014518290682265626
+C7,'40 per cent', 0.0014518290682265626
+C7,'237 per cent', 0.0014518290682265626
+C7,'standard chartered bank', 0.0014518290682265626
+C7,'bank sufficient business year', 0.0014518290682265626
+C7,'322 month', 0.0014518290682265626
+C7,'257 billion', 0.0014518290682265626
+C7,'two month', 0.001435651305341299
+C7,'small mediumsize', 0.0011528611234635838
+C7,'bank special', 0.0011528611234635838
+C7,'hayes inc', 0.0011528611234635838
+C7,'mrs takenaka', 0.0011528611234635838
+C7,'mr takanaka', 0.0011528611234635838
+C7,'financial policies', 0.0011528611234635838
+C7,'minister economic', 0.0011528611234635838
+C7,'mediumsize corporation', 0.0011528611234635838
+C7,'12 percent', 0.0011528611234635838
+C7,'minister financial affairs', 0.0011528611234635838
+C7,'loan bank', 0.0011528611234635838
+C7,'the italian banking association', 0.000994073766139489
+C7,'european central bank', 0.000994073766139489
+C7,'abbey 4 rate include commission', 0.000994073766139489
+C7,'emu economic monetary union abbey', 0.000994073766139489
+C7,'fonspa renato cassaro', 0.000994073766139489
+C7,'april 22', 0.000994073766139489
+C7,'15 year', 0.000994073766139489
+C7,'carlo azeglio ciampi', 0.000994073766139489
+C7,'prodi cassaro', 0.000994073766139489
+C7,'european union', 0.000994073766139489
+C7,'4 5', 0.000994073766139489
+C7,'april night', 0.000994073766139489
+C7,'antonio marzano', 0.000994073766139489
+C7,'may 45', 0.000994073766139489
+C7,'european monetary institute', 0.000994073766139489
+C7,'italian banking association tancredi bianchi prodi', 0.000994073766139489
+C7,'tancredi bianchi carry press', 0.000994073766139489
+C7,'speaking senate', 0.000994073766139489
+C7,'exactly 65', 0.000994073766139489
+C7,'takenaka special', 0.0007685740823090558
+C7,'takenaka already', 0.0007685740823090558
+C7,'level mr', 0.0007685740823090558
+C7,'two ministerlevel', 0.0007685740823090558
+C7,'loan in', 0.0007685740823090558
+C7,'guarantee corporation', 0.0007685740823090558
+C7,'financial affairs minister', 0.0007685740823090558
+C7,'policies minister', 0.0007685740823090558
+C7,'tokyomitsubishi bank give', 0.0007685740823090558
+C7,'grant mr', 0.0007685740823090558
+C7,'japan success', 0.0007685740823090558
+C7,'160 million yen', 0.0007685740823090558
+C7,'rate mr', 0.0007685740823090558
+C7,'the loan', 0.0007685740823090558
+C7,'loan guarantee', 0.0007685740823090558
+C7,'balance loan', 0.0007685740823090558
+C7,'major bank', 0.0007685740823090558
+C7,'treatment bank', 0.0007685740823090558
+C7,'property in', 0.0007685740823090558
+C7,'corporation bank', 0.0007685740823090558
+C7,'condominium apartment', 0.0007685740823090558
+C7,'takenaka receive', 0.0007685740823090558
+C7,'special favor', 0.0007685740823090558
+C7,'position mr', 0.0007685740823090558
+C7,'group corporation', 0.0007685740823090558
+C7,'year mr', 0.0007685740823090558
+C7,'takenaka seems', 0.0007685740823090558
+C7,'post minister', 0.0007685740823090558
+C7,'70 percent', 0.0007685740823090558
+C7,'50 million yen', 0.0007685740823090558
+C7,'fsa issue', 0.0007685740823090558
+C7,'the mortgage', 0.0007685740823090558
+C7,'house stand', 0.0007685740823090558
+C7,'heizo takenaka', 0.0007685740823090558
+C7,'approx 417000', 0.0007685740823090558
+C7,'financial services agency', 0.0007685740823090558
+C7,'12 percent rate', 0.0007685740823090558
+C7,'purchase summer', 0.0007685740823090558
+C7,'loan arrangement', 0.0007685740823090558
+C7,'give mr', 0.0007685740823090558
+C7,'issue management', 0.0007685740823090558
+C7,'mr mrs takenaka', 0.0007685740823090558
+C7,'favor mr', 0.0007685740823090558
+C7,'house own', 0.0007685740823090558
+C7,'estate property', 0.0007685740823090558
+C7,'receive special', 0.0007685740823090558
+C7,'loan tokyomitsubishi bank', 0.0007685740823090558
+C7,'in case', 0.0005028879181813387
+C7,'risona holding co', 0.0003842870411545279
+C7,'april last year', 0.0003842870411545279
+C7,'522 square meter', 0.0003842870411545279
+C7,'shukan posuto', 0.0003842870411545279
+C7,'bank loan bank', 0.0003842870411545279
+C7,'ufj bank', 0.0003842870411545279
+C7,'junichiro koizumi', 0.0003842870411545279
+C7,'93 million yen', 0.0003842870411545279
+C7,'outrageously low interest rate', 0.0003842870411545279
+C7,'october 18', 0.0003842870411545279
+C7,'100 million yen', 0.0003842870411545279
+C7,'hayes research center inc he', 0.0003842870411545279
+C7,'katsuura city', 0.0003842870411545279
+C7,'11 million yen', 0.0003842870411545279
+C7,'housing loan corporation', 0.0003842870411545279
+C7,'bank yokohama', 0.0003842870411545279
+C7,'151 million', 0.0003842870411545279
+C7,'60 percent', 0.0003842870411545279
+C7,'january 18', 0.0003842870411545279
+C7,'499 million yen', 0.0003842870411545279
+C7,'twp due', 0.0003842870411545279
+C7,'25 trillion yen', 0.0003842870411545279
+C7,'koizumi administration', 0.0003842870411545279
+C7,'okawabata liberty city', 0.0003842870411545279
+C7,'september 1999', 0.0003842870411545279
+C7,'342 million yen', 0.0003842870411545279
+C7,'181million yen', 0.0003842870411545279
+C7,'takanaka two', 0.0003842870411545279
+C7,'92000 65 percent', 0.0003842870411545279
+C7,'351 million yen', 0.0003842870411545279
+C7,'40 million yen', 0.0003842870411545279
+C7,'4 8 percent', 0.0003842870411545279
+C7,'181 million yen', 0.0003842870411545279
+C7,'questions takenaka personal financial transactions', 0.0003842870411545279
+C7,'117 billion', 0.0003842870411545279
+C7,'tokyomitsubishi bank mr', 0.0003842870411545279
+C7,'3 percent', 0.0003842870411545279
+C7,'144 million 80 percent', 0.0003842870411545279
+C7,'asahi bank mr takenaka', 0.0003842870411545279
+C7,'yukio sakurai', 0.0003842870411545279
+C7,'10 month', 0.0003842870411545279
+C7,'30million yen approx', 0.0003842870411545279
+C7,'economic strategy committee', 0.0003842870411545279
+C7,'the weekly post twp', 0.0003842870411545279
+C7,'40million yen', 0.0003842870411545279
+C7,'170 million yen', 0.0003842870411545279
+C7,'the tokyo stock market', 0.0003842870411545279
+C7,'50million yen', 0.0003842870411545279
+C7,'the public communication department', 0.0003842870411545279
+C7,'200 million yen', 0.0003842870411545279
+C7,'mrs takenaka their', 0.0003842870411545279
+C7,'two year', 0.0003842870411545279
+C7,'14 trillion yen', 0.0003842870411545279
+C7,'142 million', 0.0003842870411545279
+C7,'167 million', 0.0003842870411545279
+C7,'133 million', 0.0003842870411545279
+C7,'last several year', 0.0003842870411545279
+C7,'the weekly post internet', 0.0003842870411545279
+C7,'march 1999', 0.00030047238812430476
+C7,'last week', 0.00030047238812430476
+C7,'hoof mouth', 0.0
+C7,'past month', 0.0
+C7,'measure adopt', 0.0
+C7,'palestinian authority', 0.0
+C7,'rajihah abbud', 0.0
+C7,'air stocks inc iunc inc danbeemitchell aviation sales company', 0.0
+C7,'aviation safe', 0.0
+C7,'italian airline', 0.0
+C7,'association also', 0.0
+C7,'francois daubert', 0.0
+C7,'agalev flemish ecology party', 0.0
+C7,'270 million yuan', 0.0
+C7,'orientate toward', 0.0
+C7,'alif ba', 0.0
+C7,'jacques chirac', 0.0
+C7,'meridiana italian', 0.0
+C7,'security contribution', 0.0
+C7,'flight safety', 0.0
+C7,'16 february', 0.0
+C7,'980 percent', 0.0
+C7,'supply aircraft', 0.0
+C7,'friday first', 0.0
+C7,'primacy market for german green', 0.0
+C7,'transport safety', 0.0
+C7,'dr munaf', 0.0
+C7,'german greens', 0.0
+C7,'air transport', 0.0
+C7,'british sheep', 0.0
+C7,'outbreak hoof', 0.0
+C7,'les echos', 0.0
+C7,'recent month', 0.0
+C7,'international standard', 0.0
+C7,'west bank', 0.0
+C7,'ministry construction transportation', 0.0
+C7,'record jet', 0.0
+C7,'civil aviation administration', 0.0
+C7,'make suspect', 0.0
+C7,'european community', 0.0
+C7,'civil aeronautics administrative directorate', 0.0
+C7,'certification process', 0.0
+C7,'flight instrument', 0.0
+C7,'ciampino rome', 0.0
+C7,'zu baringdorf', 0.0
+C7,'route airport', 0.0
+C7,'baringdorf say', 0.0
+C7,'last fall', 0.0
+C7,'quai dorsay', 0.0
+C7,'four year ago', 0.0
+C7,'exadria airways', 0.0
+C7,'foreign pilot', 0.0
+C7,'for example', 0.0
+C7,'aces tampa', 0.0
+C7,'alif ba hoof mouth disease', 0.0
+C7,'minimum equipment list', 0.0
+C7,'part bind', 0.0
+C7,'six day', 0.0
+C7,'renato perinu', 0.0
+C7,'german greens congress stuttgart', 0.0
+C7,'meridiana newtech italia newtech aerospace', 0.0
+C7,'liu jianfeng', 0.0
+C7,'meridiana air', 0.0
+C7,'bind meridiana', 0.0
+C7,'28 day', 0.0
+C7,'dhl airline safety standards questioned the belgian pilot', 0.0
+C7,'airline liu jianfeng', 0.0
+C7,'7 percent', 0.0
+C7,'the pilot', 0.0
+C7,'health david byrne', 0.0
+C7,'three nine', 0.0
+C7,'several occasion', 0.0
+C7,'incheon international airport', 0.0
+C7,'netherlands le figaro are', 0.0
+C7,'european court', 0.0
+C7,'berlin agreement', 0.0
+C7,'threat public', 0.0
+C7,'find way', 0.0
+C7,'channel france', 0.0
+C7,'march april', 0.0
+C7,'vaccine due', 0.0
+C7,'quality agriculture', 0.0
+C7,'shaab kafr manda', 0.0
+C7,'greece the state veterinary health inspection service', 0.0
+C7,'air china', 0.0
+C7,'international civil aviation organization icao', 0.0
+C7,'gino boselli corrias', 0.0
+C7,'belgian civil aviation authority', 0.0
+C7,'orne mayenne', 0.0
+C7,'police force', 0.0
+C7,'graefe zu', 0.0
+C7,'next four day', 0.0
+C7,'air dolomiti alpi eagles air sicilia azzurra minerca volare', 0.0
+C7,'european parliament', 0.0
+C7,'le figaro francois daubert', 0.0
+C7,'pilot association', 0.0
+C7,'jean de looze', 0.0
+C7,'20 march', 0.0
+C7,'montalto brothers palermo', 0.0
+C7,'managing director', 0.0
+C7,'safety guideline', 0.0
+C7,'friedrich wilhelm', 0.0
+C7,'only french', 0.0
+C7,'dishon dalton selling', 0.0
+C7,'whose managing', 0.0
+C7,'gip ponassi', 0.0
+C7,'drug vaccine', 0.0
+C7,'29 june', 0.0
+C7,'air nauru', 0.0
+C7,'restore le', 0.0
+C7,'concern duty', 0.0
+C7,'abel enrique', 0.0
+C7,'safety standard', 0.0
+C7,'28 night', 0.0
+C7,'inc international airline support group canada pole air2', 0.0
+C7,'ostfold vestfold', 0.0
+C7,'safe wings tempio', 0.0
+C7,'review court', 0.0
+C7,'un inspection', 0.0
+C7,'hundreds thousand', 0.0
+C7,'finance police', 0.0
+C7,'agriculture rural development commission european parliament', 0.0
+C7,'counterfeit document', 0.0
+C7,'public air', 0.0
+C7,'sept 11', 0.0
+C7,'world cup', 0.0
+C7,'say graefe', 0.0
+C7,'van caelenberg', 0.0
+C7,'operation colombian', 0.0
+C7,'jean glavany', 0.0
+C7,'security check', 0.0
+C7,'enzo fregonese', 0.0
+C7,'xinhua liu jianfeng', 0.0
+C7,'negev samaria', 0.0
+C7,'obtain 7 percent', 0.0
+C7,'iwein van caelenberg', 0.0
+C7,'united kingdom', 0.0
+C7,'newtech italia', 0.0
+C7,'pompidou quite', 0.0
+C7,'market spare', 0.0
+C7,'aircraft part', 0.0
+C7,'north korea', 0.0
+C7,'agriculture ministry', 0.0
+C7,'newtech aerospace', 0.0
+C7,'sardinian investigation reveals spare partstrade posing threat airline safety rome imagine', 0.0
+C7,'world cup asian games', 0.0
+C7,'health problem', 0.0
+C7,'channel every day', 0.0
+C7,'18 month ago', 0.0
+C7,'civil air', 0.0
+C7,'pacific state niue', 0.0
+C7,'united states', 0.0
+C7,'remain ground', 0.0
+C7,'canada admittedly eat', 0.0
+C7,'around 40', 0.0
+C7,'van oost', 0.0
+C7,'zaventem airport', 0.0
+C7,'france glavany', 0.0
+C7,'le figaro', 0.0
+C7,'iraqi veterinary union', 0.0
+C7,'duty time', 0.0
+C7,'first two day', 0.0
+C7,'october 1995', 0.0
+C7,'european parliament agriculture commission', 0.0
+C7,'recent week', 0.0
+C7,'meet require', 0.0
+C7,'hoof mouth disease', 0.0
+C7,'paolo ponassi', 0.0
+C7,'civil aeronautics', 0.0
+C7,'colombian airline', 0.0
+C7,'indepth reform', 0.0
+C7,'spare part', 0.0
+C7,'abbas we', 0.0
+C7,'eat eat', 0.0
+C7,'baringdorf british', 0.0
+C7,'qusayfah moshav tidhar', 0.0
+C7,'jet engine', 0.0
+C7,'state council', 0.0
+C7,'abbud how', 0.0
+C7,'several successive day', 0.0
+C7,'but clear', 0.0
+C7,'tempio pausania', 0.0
+C7,'the agriculture ministry veterinary service', 0.0
+C7,'produce drug', 0.0
+C7,'sardinia public prosecutor office', 0.0
+C7,'paolo pietro', 0.0
+C7,'30 month old', 0.0
+C7,'the investigator', 0.0
+C7,'spread hoof', 0.0
+C7,'mitchell air kraft', 0.0
+C7,'us federal aviation administration', 0.0
+C7,'inspection team', 0.0
+C7,'mouth disease', 0.0
+C7,'rianovosti correspondent', 0.0
+C7,'time complain', 0.0
+C7,'325 million us dollar', 0.0
+C7,'european air transport', 0.0
+C7,'25 april 1999', 0.0
+C7,'jaa joint aviation authority', 0.0
+C7,'soon possible', 0.0
+C7,'eat pilot', 0.0
+C7,'part canadair', 0.0
+C7,'fiji australia', 0.0
+C7,'iraqi state veterinary organization', 0.0
+C7,'france socialist', 0.0
+C7,'50 percent', 0.0
+C7,'baringdorf mep', 0.0
+C7,'inspection civil aeronautics', 0.0
+C7,'hebron alzahiriyah bedouin', 0.0
+C7,'hubert vedrine', 0.0
+C7,'neira colombian', 0.0
+C7,'preventive treatment', 0.0
+C7,'french german', 0.0
+C7,'agriculture minister', 0.0
+C7,'the company', 0.0
+C7,'anticipating german greens congress', 0.0
+C7,'french food health safety agency', 0.0
+C7,'michel daerden', 0.0
+C7,'glavany i', 0.0
+C7,'royal tongan airlines', 0.0
+C7,'work order', 0.0
+C7,'pavel shevtsov', 0.0
+C7,'120 million yuan', 0.0
+C7,'raw material', 0.0
+C7,'last day', 0.0
+C7,'aviation authorities ground airline', 0.0
+C7,'avianca aces', 0.0
+C7,'the disease', 0.0
+C7,'gino boselli', 0.0
+C7,'caac public security bureau', 0.0
+C7,'state veterinary organization', 0.0
+C7,'lawyer course', 0.0
+C7,'joschka fischer', 0.0
+C7,'prof arnon shimshoni', 0.0
+C7,'commercial airline', 0.0
+C7,'director gino boselli', 0.0
+C7,'france realization', 0.0
+C7,'dc9 jet', 0.0
+C7,'bernard kouchner', 0.0
+C7,'usa 11 september', 0.0
+C7,'enac national civil aviation board', 0.0
+C7,'charge obtain 7 percent', 0.0
+C7,'the outbreak', 0.0
+C7,'eight day', 0.0
+C7,'the european commission', 0.0
+C7,'civil aviation', 0.0
+C7,'2 january', 0.0
+C7,'sell part', 0.0
+C7,'one week later', 0.0
+C7,'dr abdalilah hamid', 0.0
+C7,'policy cap', 0.0
+C7,'formation police', 0.0
+C7,'incidentally eat', 0.0
+C7,'duty monitor', 0.0
+C7,'pose threat', 0.0
+C7,'us canadian', 0.0
+C7,'must exist', 0.0
+C7,'foreign ministry', 0.0
+C7,'the investigation', 0.0
+C7,'tuesday 13 march', 0.0
+C7,'bedouin village', 0.0
+C7,'alkindi company industry ministry', 0.0
+C7,'disease break', 0.0
+C7,'sanctions committee', 0.0
+C7,'transport head', 0.0
+C7,'145 million us dollar', 0.0
+C7,'german greens congress', 0.0
+C7,'lode van oost', 0.0
+C7,'social security', 0.0
+C7,'graefe zu baringdorf health controls', 0.0
+C7,'speaking european parliament', 0.0
+C7,'whole series', 0.0
+C7,'jimenez neira', 0.0
+C7,'demolition dealer', 0.0
+C7,'italy george schuster', 0.0
+C7,'sicily 1996', 0.0
+C7,'according graefe', 0.0
+C7,'aleksandr neradko', 0.0
+C7,'almost 30 percent', 0.0
