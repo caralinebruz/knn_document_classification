@@ -36,3 +36,18 @@ _see below for example of expected format:_
 | 2  | Hoof and Mouth Disease  | 0.01423 | 0.00 | 0.00202 | 0.00 |
 | 3  | Hoof and Mouth Disease  | 0.00 | 0.00 | 0.00 | 0.00202 |
 | 4  | Hoof and Mouth Disease  | 0.00 | 0.00 | 0.00202 | 0.01423 |
+
+
+
+## RESULTS
+
+```
+2022-08-03 14:35:51 INFO     The closest 3 neighbors:
+2022-08-03 14:35:51 INFO     	key 0, distance: 0.843123574683881, label: Airline Safety
+2022-08-03 14:35:51 INFO     	key 1, distance: 0.3305893882835494, label: Airline Safety
+2022-08-03 14:35:51 INFO     	key 4, distance: 0.024315114864623615, label: Airline Safety
+2022-08-03 14:35:51 INFO     After voting, results:
+2022-08-03 14:35:51 INFO     {'Airline Safety': 3, 'Hoof and Mouth Disease': 0, 'Mortgage Rates': 0}
+2022-08-03 14:35:51 INFO     congrats you have a highest score and it's Airline Safety
+2022-08-03 14:35:51 INFO     Nearest neighbor category : Airline Safety
+```
