@@ -40,8 +40,10 @@ _see below for example of expected format:_
 
 # About my model
 If there is no distinguished category that got votes (in the case of a tie or a perpendicular document vector) then I simply pick the category of the closest document. This has worked well for me.
+
 My model compares the results with varying values of k _(I chose K=3, K=6, and K=9)_ if they all agree on the classification, then my model rocks! 
-For all files (except file 4 with a syntax error in the input file) my model agrees on the selected category across chosen values of K.
+
+For all files (aside from `unknown/unknown08.txt` for which there is a syntax error in the raw input file) my model continues to agree on the selected category across chosen values of K.
 
 
 ## RESULTS
@@ -62,3 +64,7 @@ Since I run the model for three different values of K and compare them, the fina
 2022-08-03 14:52:56 INFO     Final Model Evaluation:
 2022-08-03 14:52:56 INFO     your model rocks! all values of K agree on the winning category: Mortgage Rates
 ```
+
+In all test cases my model has agreed 100% of the time for values of k=3, k=6, and k=9
+
+Thanks!
