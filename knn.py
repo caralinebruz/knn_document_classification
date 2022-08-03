@@ -36,7 +36,7 @@ import sys
 ## ******************************************
 ##
 ## USAGE:
-## python3 knn.py data/unknown/unknown01.txt data/input_tf_idf_labels_headers.csv
+## python3 knn.py data/input_tf_idf_labels_headers.csv data/unknown/unknown01.txt
 ##
 ## ******************************************
 
@@ -314,24 +314,6 @@ def parse_file_tfidf(seed_tf_idf_labelled_file):
 
 
 
-
-# def sort_topics(keywords_concepts, folder_aggregate_vector):
-# 	# Overall processing 
-# 	zipped_aggregate = list(zip(keywords_concepts, folder_aggregate_vector))
-
-# 	# dedupe idk why there are duplicates
-# 	zipped_aggregate = set(zipped_aggregate)
-
-# 	# https://www.geeksforgeeks.org/python-ways-to-sort-a-zipped-list-by-values/
-# 	# Using sorted and lambda
-# 	sorted_topics = sorted(zipped_aggregate, key = lambda x: x[1], reverse=True)
-
-# 	for x in sorted_topics:
-# 		print(x)
-
-# 	return sorted_topics
-
-
 def v2_do_preprocessing(file):
 
 	P = Preprocessor(file)
@@ -458,6 +440,9 @@ def cosine_similarity(vector_1, vector_2):
 
 
 def do_knn(new_tf_idf):
+	#
+	# PART 1 : get the distances and rank them
+	#
 	# find distance between the new object and all other vectors
 	#			cosine similarity -> highest number is more similar
 	# 			when cos(\theta) == 1 means they are the same 
@@ -477,9 +462,55 @@ def do_knn(new_tf_idf):
 
 	# reverse sorted list of the values of this dictionary
 	sorted_keys = sorted(list(distances.values()), reverse=True)
-	print(sorted_keys)
+	# print(sorted_keys)
 
+	#
+	# PART 2
+	#
+	# decide which group this document belongs in based off the rankings
+	# i decided to use a weighted knn so that documents closer
+	#	are ranked with more weight
+	logger.info("Moving on to voting rounds...")
 
+	# make a local copy of the distances hash
+	this_round_distances = distances
+	logger.info(this_round_distances)
+	# print(label_index)
+
+	# initalize empty voting hash
+	votes = {}
+	for label in labels:
+		votes[label] = 0
+
+	# initially we pick k=3 modes
+	# i tried k=6 as well and got the same results, FWIW
+	k = 3
+	logger.info("The closest %d neighbors:" % k)
+	for j in range(len(sorted_keys[0:k])):
+
+		neighbor_distance = sorted_keys[j]
+		if neighbor_distance == 0:
+			logger.warning("Nearest neighbor is perpendicular to this vector")
+
+		# print(neighbor_distance)
+
+		# look up the label for this one:
+		# takes the first value found forthe distance
+		for index in list(this_round_distances):
+			if this_round_distances[index] == neighbor_distance:
+
+				# look up that item's label
+				this_label = label_index[str(index)]
+				logger.info("\tkey %s, distance: %s, label: %s" % (index, neighbor_distance, this_label))
+
+				# add it's label (vote) to the dictionary
+				votes[this_label] += 1
+
+				# and pop it from the eligible candidates for this round of knn
+				del this_round_distances[index]
+
+	logger.info("After voting, results:")
+	logger.info(votes)
 
 
 
@@ -492,46 +523,27 @@ if __name__ == '__main__':
 	if not len(sys.argv) > 2:
 		logger.error("Expected file argument. None provided")
 	else:
-		unknown_file = sys.argv[1]
-		logger.info("Using this unknown file for classification: %s" % unknown_file)
-
-		seed_tf_idf_labelled_file = sys.argv[2]
+		seed_tf_idf_labelled_file = sys.argv[1]
 		logger.info("Using this seed file for tf_idf with labels: %s" % seed_tf_idf_labelled_file)
 
+		unknown_file = sys.argv[2]
+		logger.info("Using this unknown file for classification: %s" % unknown_file)
 
-
-
-		# # arg parse the file I am supposed to be using
-		# unknown_file = sys.argv[1]
-		# logger.info("Using this unknown file for classification: %s" % unknown_file)
-
-		# with open(sys.argv[1], 'r') as f:
-		# 	contents = f.read()	
-		# 	print contents
 
 
 		# **************************************************************
 		#
 		# PART 1: 
-		#	For this portion I just recreate the TF-IDF matrix from HW 1
-		#		I don't do anything new here
+		#	For this portion I just parse the TF-IDF matrix from input
+		#		capture keywords_concepts and capture labels for each row
 		#
 		# **************************************************************
 
 		# does preprocessing on the files
-		# returns a list of preprocessed file objects for each file
-		# logger.info("First: Do preprocessing on the files")
-		# processed_objects = v1_do_preprocessing()
-
-		# # then give it the matrix class here
-		# logger.info("Next: Generating Document Term Matrix")
-		# matrix_object = v1_generate_document_term_matrix()
-
-
 		logger.info("Parse the inputu tf_idf file to be useable....")
 		parse_file_tfidf(seed_tf_idf_labelled_file)
 
-		logger.info("Done parsing out the ole tf-idf matrix")
+		logger.info("Done parsing out ye ole tf-idf matrix")
 
 
 		# **************************************************************
