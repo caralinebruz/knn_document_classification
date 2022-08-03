@@ -439,7 +439,7 @@ def cosine_similarity(vector_1, vector_2):
 	return cosine_similarity
 
 
-def do_knn(new_tf_idf):
+def do_knn(new_tf_idf, kNN_value):
 	#
 	# PART 1 : get the distances and rank them
 	#
@@ -487,7 +487,7 @@ def do_knn(new_tf_idf):
 	#
 	# initially we pick k=3 modes
 	# i tried k=6 as well and got the same results, FWIW
-	k = 3
+	k = kNN_value
 	logger.info("The closest %d neighbors:" % k)
 	for j in range(len(sorted_keys[0:k])):
 
@@ -603,11 +603,24 @@ if __name__ == '__main__':
 		#
 		# PART 3
 		#	Find KNN for new document - use cosine as in hw1
+		#		Experiment with different values of K
 		#
 		# **************************************************************
 
-		nearest_neighbor = do_knn(new_tf_idf)
+		nearest_neighbor_3 = do_knn(new_tf_idf, 3)
 
+		nearest_neighbor_6 = do_knn(new_tf_idf, 6)
+
+		nearest_neighbor_9 = do_knn(new_tf_idf, 9)
+
+
+		# compare the results of the model
+		logger.info("\n")
+		logger.info("Final Model Evaluation:")
+		if nearest_neighbor_3 == nearest_neighbor_6 and nearest_neighbor_6  == nearest_neighbor_9:
+			logger.info("your model rocks! all values of K agree on the winning category: %s", nearest_neighbor_3)
+		else:
+			logger.info("your model isnt that great, results vary for different models of K")
 
 
 
