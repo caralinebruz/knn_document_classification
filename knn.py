@@ -307,7 +307,7 @@ def parse_file_tfidf(seed_tf_idf_labelled_file):
 
 		tf_idf_matrix.append(data)
 
-		logger.info("parsing tf_idf data input row %s" % (len(tf_idf_matrix)))
+		logger.debug("parsing tf_idf data input row %s" % (len(tf_idf_matrix)))
 		# print(label_index.items())
 
 	return True
@@ -360,8 +360,7 @@ def v2_add_to_tf_idf_matrix(tf_idf_matrix, processed_new_object):
 							columns=input_keywords_concepts
 							)
 
-	#print(tf_idf_df)
-	print(processed_new_object.document_text)
+	# print(processed_new_object.document_text)
 
 
 	# initialize vector for this new document
@@ -470,7 +469,8 @@ def do_knn(new_tf_idf, kNN_value):
 	# decide which group this document belongs in based off the rankings
 	# i decided to use a weighted knn so that documents closer
 	#	are ranked with more weight
-	logger.info("Moving on to voting rounds...")
+	logger.info("\n")
+	logger.info("Moving on to voting round for k=%s..." % kNN_value)
 
 	# make a local copy of the distances hash
 	this_round_distances = distances
