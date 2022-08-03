@@ -482,6 +482,9 @@ def do_knn(new_tf_idf):
 	for label in labels:
 		votes[label] = 0
 
+	#
+	# KNN
+	#
 	# initially we pick k=3 modes
 	# i tried k=6 as well and got the same results, FWIW
 	k = 3
@@ -512,6 +515,40 @@ def do_knn(new_tf_idf):
 	logger.info("After voting, results:")
 	logger.info(votes)
 
+	# now we can pick the one with the most votes.
+	# if there is a tie pick the closest one for now
+	winning_category = None
+	highest_score = 0
+	for x,y in votes.items():
+		if y > highest_score:
+			highest_score = y
+
+	logger.debug("highest number of votes = %s" % highest_score)
+	# now just make sure there wasnt a tie
+	items_with_highest_scores = []
+	for x,y in votes.items():
+		if y == highest_score:
+			items_with_highest_scores.append(x)
+			winning_category = x
+
+	# settle scores
+	# idk if this would happen
+	if len(items_with_highest_scores) == 0:
+		logger.error("new vector is perpendicular to all vectors in the input tf_idf")
+	elif len(items_with_highest_scores) == 1:
+		logger.info("congrats you have a highest score and it's %s" % winning_category)
+	else:
+		logger.info("you have a tie, just picking the closest distance category for now")
+		winner = sorted_keys[0]
+		for q,r in distances.items():
+			if r == winner:
+
+				winning_category = label_index[str(q)]
+				logger.info("picking index %s because its closest at %s" % (q,r))
+
+
+	logger.info("Nearest neighbor category : %s" % winning_category)
+	return winning_category
 
 
 
@@ -569,7 +606,7 @@ if __name__ == '__main__':
 		#
 		# **************************************************************
 
-		neighbors = do_knn(new_tf_idf)
+		nearest_neighbor = do_knn(new_tf_idf)
 
 
 
