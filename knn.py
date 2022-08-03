@@ -388,7 +388,7 @@ def v2_add_to_tf_idf_matrix(tf_idf_matrix, processed_new_object):
 
 	for w in range(len(input_keywords_concepts)):
 
-		word = keywords_concepts[w]
+		word = input_keywords_concepts[w]
 		# logger.info(word)
 
 		if word in processed_new_object.document_text:
@@ -413,7 +413,9 @@ def v2_add_to_tf_idf_matrix(tf_idf_matrix, processed_new_object):
 			counter = 0
 			for i in range(len(tf_idf_matrix)):
 
-				if tf_idf_matrix[i][w] > 0:
+				# print(tf_idf_matrix[i][w])
+
+				if float(tf_idf_matrix[i][w]) > 0:
 					counter+=1
 					# increment here means the document contains this keyword
 
@@ -426,7 +428,7 @@ def v2_add_to_tf_idf_matrix(tf_idf_matrix, processed_new_object):
 			counter+=1 #otherwise comment that one out
 
 			#IDF
-			total_docs_including_new_one = total_documents + 1
+			total_docs_including_new_one = len(tf_idf_matrix)
 			idf = float(math.log(total_docs_including_new_one / counter))
 
 			# print("IDF for keywd: %s : %s" % (word, idf))
@@ -438,11 +440,11 @@ def v2_add_to_tf_idf_matrix(tf_idf_matrix, processed_new_object):
 
 	# lastly, after all, append this new document's tf_idf vector to the main matrix
 	tf_idf_matrix.append(new_document_tf_idf_vector)
-	return matrix_object
+	return tf_idf_matrix
 
 
 def dot_prod(vector_1, vector_2):
-	return float(sum(x * y for x, y in zip(vector_1, vector_2)))
+	return float(sum(float(x) * float(y) for x, y in zip(vector_1, vector_2)))
 
 def mag(vec):
 	return float(sqrt(dot_prod(vec, vec)))
@@ -455,18 +457,18 @@ def cosine_similarity(vector_1, vector_2):
 	return cosine_similarity
 
 
-def do_knn(matrix_object):
+def do_knn(new_tf_idf):
 	# find distance between the new object and all other vectors
 	#			cosine similarity -> highest number is more similar
 	# 			when cos(\theta) == 1 means they are the same 
 
 	distances = {}
-	new_document_vector = matrix_object.tf_idf_matrix[-1]
+	new_document_vector = new_tf_idf[-1]
 
 	# go through all of the vectors except the last one (which is itself)
-	for i in range(len(matrix_object.tf_idf_matrix) - 1):
+	for i in range(len(new_tf_idf) - 1):
 
-		vector = matrix_object.tf_idf_matrix[i]
+		vector = new_tf_idf[i]
 
 		# get the cosine similarity
 		cosine_sim_score = cosine_similarity(new_document_vector, vector)
@@ -474,7 +476,7 @@ def do_knn(matrix_object):
 
 
 	# reverse sorted list of the values of this dictionary
-	sorted_keys = sorted(list(distances_dict.values()), reverse=True)
+	sorted_keys = sorted(list(distances.values()), reverse=True)
 	print(sorted_keys)
 
 
@@ -539,18 +541,13 @@ if __name__ == '__main__':
 		#
 		# **************************************************************
 
-
-		logger.info("parsing the unknown file ...")
 		# create a process object of the new file
+		logger.info("parsing the unknown file ...")
 		processed_new_object = v2_do_preprocessing(unknown_file)
 
-		logger.info("integrating this unknown vector with the input tf_idf")
-
-
-		print(input_keywords_concepts)
-		print(len(input_keywords_concepts))
 		# add this new file to the existing tf-idf matrix
-		new_matrix_object = v2_add_to_tf_idf_matrix(tf_idf_matrix, processed_new_object)
+		logger.info("integrating this unknown vector with the input tf_idf")
+		new_tf_idf = v2_add_to_tf_idf_matrix(tf_idf_matrix, processed_new_object)
 
 
 		# **************************************************************
@@ -560,7 +557,7 @@ if __name__ == '__main__':
 		#
 		# **************************************************************
 
-		neighbors = do_knn(new_matrix_object)
+		neighbors = do_knn(new_tf_idf)
 
 
 
