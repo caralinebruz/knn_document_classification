@@ -61,10 +61,15 @@ For any given value for k, my code will print the scores and evaluation of the K
 
 Since I run the model for three different values of K and compare them, the final lines output by my code:
 ```
-2022-08-03 14:52:56 INFO     Final Model Evaluation:
-2022-08-03 14:52:56 INFO     your model rocks! all values of K agree on the winning category: Mortgage Rates
+2022-08-03 21:37:19 INFO     Final Model Evaluation:
+2022-08-03 21:37:19 INFO     your model rocks! all values of K agree on the winning category: Hoof and Mouth Disease
 ```
 
-In all test cases my model has agreed 100% of the time for values of k=3, k=6, and k=9
+## MODEL PERFORMANCE
+
+In 9/10 test cases my model has agreed 100% of the time for values of k=3, k=6, and k=9 :)
+
+
+In just one file: `unknown_10.txt` I got different results for different values of k.
 
 Thanks!
