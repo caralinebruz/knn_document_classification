@@ -38,9 +38,14 @@ _see below for example of expected format:_
 | 4  | Hoof and Mouth Disease  | 0.00 | 0.00 | 0.00202 | 0.01423 |
 
 
+# About my model
+If there is no distinguished category that got votes (in the case of a tie or a perpendicular document vector) then I simply pick the category of the closest document. This has worked well for me.
+My model compares the results with varying values of k _(I chose K=3, K=6, and K=9)_ if they all agree on the classification, then my model rocks! 
+For all files (except file 4 with a syntax error in the input file) my model agrees on the selected category across chosen values of K.
+
 
 ## RESULTS
-
+For any given value for k, my code will print the scores and evaluation of the KNN iteration model (_below is for when k=3_)
 ```
 2022-08-03 14:35:51 INFO     The closest 3 neighbors:
 2022-08-03 14:35:51 INFO     	key 0, distance: 0.843123574683881, label: Airline Safety
@@ -50,4 +55,10 @@ _see below for example of expected format:_
 2022-08-03 14:35:51 INFO     {'Airline Safety': 3, 'Hoof and Mouth Disease': 0, 'Mortgage Rates': 0}
 2022-08-03 14:35:51 INFO     congrats you have a highest score and it's Airline Safety
 2022-08-03 14:35:51 INFO     Nearest neighbor category : Airline Safety
+```
+
+Since I run the model for three different values of K and compare them, the final lines output by my code:
+```
+2022-08-03 14:52:56 INFO     Final Model Evaluation:
+2022-08-03 14:52:56 INFO     your model rocks! all values of K agree on the winning category: Mortgage Rates
 ```
