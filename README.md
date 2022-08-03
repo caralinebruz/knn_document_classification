@@ -1,6 +1,10 @@
 # K Nearest Neighbors
 Attempts to classify an unknown document based on an existing tf_idf matrix 
 
+## REQUIREMENTS
+- Requires python-3.9.7 or higher
+- Create a new `virtualenv` and then run:
+`pip3 install -r requirements.txt`
 
 <br/>
 
