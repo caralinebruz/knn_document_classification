@@ -36,7 +36,7 @@ import sys
 ## ******************************************
 ##
 ## USAGE:
-## python3 knn.py unknown/unknown01.txt data/input_tf_idf_labels_headers.csv
+## python3 knn.py data/unknown/unknown01.txt data/input_tf_idf_labels_headers.csv
 ##
 ## ******************************************
 
@@ -48,39 +48,14 @@ logging.basicConfig(
 logger = logging
 
 seed_tf_idf_matrix_file = "./data/input_tf_idf_labels_headers.csv"
-# infile_path = "data/"
 outfile_path = "data/out/"
 my_process_objects = []
 
-# files = []
-
-# files = [
-# 	"data/C1/article01.txt",
-# 	"data/C1/article02.txt",
-# 	"data/C1/article03.txt",
-# 	"data/C1/article04.txt",
-# 	"data/C1/article05.txt",
-# 	"data/C1/article06.txt",
-# 	"data/C1/article07.txt",
-# 	"data/C1/article08.txt",
-# 	"data/C4/article01.txt",
-# 	"data/C4/article02.txt",
-# 	"data/C4/article03.txt",
-# 	"data/C4/article04.txt",
-# 	"data/C4/article05.txt",
-# 	"data/C4/article06.txt",
-# 	"data/C4/article07.txt",
-# 	"data/C4/article08.txt",
-# 	"data/C7/article01.txt",
-# 	"data/C7/article02.txt",
-# 	"data/C7/article03.txt",
-# 	"data/C7/article04.txt",
-# 	"data/C7/article05.txt",
-# 	"data/C7/article06.txt",
-# 	"data/C7/article07.txt",
-# 	"data/C7/article08.txt",
-# ]
-
+labels = []
+indices = []
+label_index = {}
+tf_idf_matrix = []
+input_keywords_concepts = []
 
 
 class Preprocessor():
@@ -293,237 +268,6 @@ def write_keywords_concepts_file(P):
 
 
 
-# # # collect keywords and terms across all the files
-# # def generate_term_document_matrix():
-# class DocuTermMatrix():
-
-# 	def __init__(self):
-# 		self.keywords_concepts = []
-# 		self.matrix = []
-# 		self.tf_idf_matrix = []
-# 		self.total_documents = len(my_process_objects)
-# 		self.docs_with_keyword = {}
-
-# 	def consolidate_keywords_concepts(self):
-# 		# read the file into an array of lines
-# 		logger.info("Collecting all of the keywords concepts ...")
-# 		for file_object in my_process_objects:
-
-# 			for keyword in file_object.keywords_concepts:
-# 				if keyword not in self.keywords_concepts:
-
-# 					self.keywords_concepts.append(keyword.lower())
-
-
-# 	def initialize_matrix(self):
-# 		logger.info("initializing the zero matrix ...")
-
-# 		# fill with 0s for the correct size matrix
-# 		num_rows = len(my_process_objects)
-# 		num_cols = len(self.keywords_concepts)
-
-# 		# https://intellipaat.com/community/63426/how-to-create-a-zero-matrix-without-using-numpy
-# 		self.matrix = [([0]*num_cols) for i in range(num_rows)]
-
-
-# 	def fill_matrix(self):
-
-# 		logger.info("Creating the document term matrix ...")
-# 		i = 0
-# 		for i in range(len(my_process_objects)):
-
-# 			# print(i)
-# 			# print(my_process_objects[i].index)
-# 			# print(my_process_objects[i].filename)
-
-# 			file_object = my_process_objects[i]
-
-# 			# convert all the keys to lowercase for now
-# 			the_files_ngrams =  {k.lower(): v for k, v in file_object.ngrams_frequency.items()}
-# 			# print(file_object.ngrams_frequency)
-
-
-# 			# iterate over the keywords_concepts list
-# 			for j in range(len(self.keywords_concepts)):
-
-# 				# if a keyword_concept is in the document_text of the document
-# 				# count the number of times the substring appears
-# 				if self.keywords_concepts[j] in file_object.document_text:
-
-# 					# https://stackoverflow.com/questions/8899905/count-number-of-occurrences-of-a-substring-in-a-string
-# 					frequency = file_object.document_text.count(self.keywords_concepts[j])
-# 					self.matrix[i][j] = frequency
-
-# 				# else:
-# 				# 	print("%s not in document text" % self.keywords_concepts[j])
-# 				# 	print(file_object.document_text)
-
-
-# 	def _get_tf(self, document_object, row_index, col_index):
-# 		# logger.debug("getting TF for a keyword in %s" % document_object.filename)
-
-# 		# number of times the term occurs in the current document
-# 		keywd_occurrence_this_document = self.matrix[row_index][col_index]
-
-# 		# word count of the current document
-# 		this_document_wordcount = len(document_object.document_text)
-
-# 		# logger.info("number of words in %s : %d" % (document_object.filename, this_document_wordcount))
-
-# 		# make the tf calculation 
-# 		tf = float(keywd_occurrence_this_document / this_document_wordcount)
-
-# 		return tf
-
-
-# 	def _get_idf(self, keyword, row_index, col_index):
-# 		# logger.info("getting IDF on keyword %s ... " % keyword)
-# 		# math.log uses base e
-# 		# test1 = math.log(20)
-# 		# print(test1)
-
-# 		num_documents_this_keyword = self.docs_with_keyword[keyword]
-# 		idf = float(math.log(self.total_documents / num_documents_this_keyword))
-
-# 		return idf
-
-# 	def _get_num_documents_containing_keyword(self):
-
-# 		for col_index in range(len(self.keywords_concepts)):
-
-# 			keyword = self.keywords_concepts[col_index]
-# 			counter = 0
-
-# 			# for each row of the current column
-# 			for row_index in range(len(my_process_objects)):
-
-# 				# is the value in the matrix > 0 ?
-# 				if self.matrix[row_index][col_index] > 0:
-# 					counter += 1
-
-# 			# logger.info("current keyword: %s num_documents %s" % (keyword, counter))
-
-# 			# add it to the dictionary
-# 			self.docs_with_keyword[keyword] = counter
-
-
-
-# 	def create_tf_idf(self):
-# 		# start with a copy of the document term matrix
-# 		self.tf_idf_matrix = self.matrix
-
-# 		self._get_num_documents_containing_keyword()
-
-# 		# for column (keyword) in the matrix
-# 		for col_index in range(len(self.keywords_concepts)):
-
-# 			keyword = self.keywords_concepts[col_index]
-# 			counter = 0
-
-# 			# logger.info("current keyword: %s" % keyword)
-
-# 			# for each row of the current column
-# 			for row_index in range(len(my_process_objects)):
-
-# 				document = my_process_objects[row_index]
-
-# 				# logger.info("Column: %s | Row: %s" % (keyword, document.index))
-
-# 				tf = self._get_tf(document, row_index, col_index)
-# 				# logger.info("\tTF for document %s on current keyword is : %.8f" % (document.filename, tf))
-
-# 				# now we make get the idf calculation
-# 				idf = self._get_idf(keyword, row_index, col_index)
-# 				# logger.info("\tIDF for this keyword is %.8f" % idf)
-
-# 				# then combine them to get the TF-IDF weight
-# 				tf_idf = float(tf * idf)
-# 				# logger.info("\t\tFinal TF-IDF: %.8f" % tf_idf)
-
-# 				# next, populate the new cell with the final valye
-# 				self.tf_idf_matrix[row_index][col_index] = tf_idf
-
-
-
-# # preprocess the raw data
-# def v1_do_preprocessing():
-
-# 	#for file in files[0:6]:
-# 	for file in files:
-
-# 		P = Preprocessor(file)
-
-# 		# and add that object to the processed objects list
-# 		my_process_objects.append(P)
-
-# 		# read the file
-# 		P.read_file()
-
-# 		# 2 - remove stopwords, lemmatize, and tokenize
-# 		# https://www.geeksforgeeks.org/python-lemmatization-with-nltk/
-# 		P.filter_stopwords_lemmatize()
-
-# 		# 3 - apply NER 
-# 		# https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/#:~:text=Named%20Entity%20Recognition%20is%20the,%2C%20money%2C%20time%2C%20etc.
-# 		P.apply_ner()
-
-# 		# 4 - use sliding window approach to merge remaining phrases
-# 		P.sliding_window_merge()
-
-# 		# clean up my findings:
-# 		# 	removes underscores from document text, lowercases
-# 		#	removes underscores from frequency keys, lowercases
-# 		P.cleanup()
-
-# 		# 5 - at the end, write to out_file for each document for safety
-# 		P.write_output()
-
-# 		# also write the keywords concepts file
-# 		write_keywords_concepts_file(P)
-
-# 	return my_process_objects
-
-
-# def v1_generate_document_term_matrix():
-
-# 	M = DocuTermMatrix()
-
-# 	# firt, consolidate and dedupe all keywords across the files
-# 	M.consolidate_keywords_concepts()
-# 	# print(M.keywords_concepts)
-
-# 	# second, create the matrix
-# 	M.initialize_matrix()
-# 	M.fill_matrix()
-
-# 	print("\n~~~~ Moving on to TF-IDF section ~~~~\n")
-# 	M.create_tf_idf()
-
-# 	print("\nTF IDF HERE:\n")
-
-# 	tf_idf_input_file = "./" + outfile_path + "input_tfidf_labels.txt"
-	
-# 	with open(tf_idf_input_file, "w") as f:
-# 		f.write(str(M.keywords_concepts))
-# 		f.write("\n")
-# 		for row in M.tf_idf_matrix:
-# 			f.write(str(row))
-# 			f.write("\n")
-
-
-# 	# print(M.keywords_concepts)
-# 	# print(M.tf_idf_matrix)
-
-# 	return M
-
-
-labels = []
-indices = []
-label_index = {}
-tf_idf_matrix = []
-keywords_concepts = []
-
-
 def parse_file_tfidf(seed_tf_idf_labelled_file):
 
 	lines = []
@@ -540,8 +284,11 @@ def parse_file_tfidf(seed_tf_idf_labelled_file):
 	header = header.split(',')
 
 
-	keywords_concepts = header[2:]
-	print(keywords_concepts)
+	# https://stackoverflow.com/questions/423379/using-global-variables-in-a-function
+	global input_keywords_concepts 
+
+	input_keywords_concepts = header[2:]
+	#V print(input_keywords_concepts)
 
 	for line in lines[1:]:
 
@@ -568,21 +315,21 @@ def parse_file_tfidf(seed_tf_idf_labelled_file):
 
 
 
-def sort_topics(keywords_concepts, folder_aggregate_vector):
-	# Overall processing 
-	zipped_aggregate = list(zip(keywords_concepts, folder_aggregate_vector))
+# def sort_topics(keywords_concepts, folder_aggregate_vector):
+# 	# Overall processing 
+# 	zipped_aggregate = list(zip(keywords_concepts, folder_aggregate_vector))
 
-	# dedupe idk why there are duplicates
-	zipped_aggregate = set(zipped_aggregate)
+# 	# dedupe idk why there are duplicates
+# 	zipped_aggregate = set(zipped_aggregate)
 
-	# https://www.geeksforgeeks.org/python-ways-to-sort-a-zipped-list-by-values/
-	# Using sorted and lambda
-	sorted_topics = sorted(zipped_aggregate, key = lambda x: x[1], reverse=True)
+# 	# https://www.geeksforgeeks.org/python-ways-to-sort-a-zipped-list-by-values/
+# 	# Using sorted and lambda
+# 	sorted_topics = sorted(zipped_aggregate, key = lambda x: x[1], reverse=True)
 
-	for x in sorted_topics:
-		print(x)
+# 	for x in sorted_topics:
+# 		print(x)
 
-	return sorted_topics
+# 	return sorted_topics
 
 
 def v2_do_preprocessing(file):
@@ -623,29 +370,23 @@ def v2_do_preprocessing(file):
 
 def v2_add_to_tf_idf_matrix(tf_idf_matrix, processed_new_object):
 
-	print(tf_idf_matrix)
-
 	# first we need to 'back into' the original IDF
 	array = np.array(tf_idf_matrix)
 	tf_idf_df = pd.DataFrame(
 							data=array, 
 							index=indices, 
-							columns=keywords_concepts
+							columns=input_keywords_concepts
 							)
 
-	print(tf_idf_df)
-
+	#print(tf_idf_df)
 	print(processed_new_object.document_text)
 
 
-	# matrix_object.keywords_concepts is current feature list
-	# processed_new_object.keywords)c
-
 	# initialize vector for this new document
 	# 	the length will be same as the existing matrix length
-	new_document_tf_idf_vector = [0] * len(keywords_concepts)
+	new_document_tf_idf_vector = [0] * len(input_keywords_concepts)
 
-	for w in range(len(keywords_concepts)):
+	for w in range(len(input_keywords_concepts)):
 
 		word = keywords_concepts[w]
 		# logger.info(word)
@@ -806,7 +547,8 @@ if __name__ == '__main__':
 		logger.info("integrating this unknown vector with the input tf_idf")
 
 
-
+		print(input_keywords_concepts)
+		print(len(input_keywords_concepts))
 		# add this new file to the existing tf-idf matrix
 		new_matrix_object = v2_add_to_tf_idf_matrix(tf_idf_matrix, processed_new_object)
 
