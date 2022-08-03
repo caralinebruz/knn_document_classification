@@ -511,6 +511,7 @@ def do_knn(new_tf_idf, kNN_value):
 
 				# and pop it from the eligible candidates for this round of knn
 				del this_round_distances[index]
+				break
 
 	logger.info("After voting, results:")
 	logger.info(votes)
