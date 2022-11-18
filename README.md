@@ -1,5 +1,6 @@
-# K Nearest Neighbors
-Attempts to classify an unknown document based on an existing tf_idf matrix 
+# K Nearest Neighbors Classification
+
+Classifies an unknown text document based on an existing tf_idf matrix 
 
 
 
